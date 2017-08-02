@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to the Single Cell Genomics SIG Users Group webpage
 
-You can use the [editor on GitHub](https://github.com/NIH-IRP-SingleCell/UsersGroup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We will be posting information about upcoming events and other information here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Upcoming Events
 
-```markdown
-Syntax highlighted code block
+Aug 16th @ 10am (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
-# Header 1
-## Header 2
-### Header 3
+Sept 6th @ 10am (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
 
-- Bulleted
-- List
+Sept 20th @ 10am (Bld35A, GG607): Discussion Group - Topic TBD
 
-1. Numbered
-2. List
+Oct 13th All Day (Bld35A, Rm 620): 10X Genomics-sponsored mini symposium
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### How do I get notified about upcoming events?
 
-### Jekyll Themes
+Join the Single Cell Genomics SIG listserv.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NIH-IRP-SingleCell/UsersGroup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For joining the Single Cell Genomics SIG listserv:
+1. Go here: https://list.nih.gov
+2. You may need to set up an account – this is a different login process than your NIH ID, since it is accessible to non-NIH folks too.
+3. Login and then search for “singlecellgenomics-l”
 
-### Support or Contact
+This will allow you to subscribe to this listserv and you should be able to see some of the message archives on there as well.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Get Invovled
+
+If you would like to present or lead a discussion group, please contact one of us on the organizing team (you can find our email addresses on NIH global).
+
+
+
+
+
+### Contact Us 
+
+Organizing Team:
+
+Mike Kelly (NIDCD)
+Jamie Diemer (NHGRI)
+Ben Voisin (NIAMS)
+Erika Kwon (NHGRI)
+Chen Yao (NIAMS)
+Erica Bresciani (NHGRI)
+Lingling Miao (NIAMS)
+
+
+
