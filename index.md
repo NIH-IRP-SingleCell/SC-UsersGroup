@@ -3,23 +3,19 @@
 We will be posting information about upcoming events and other information here.
 
 ### Goals of this Users Group:
--Discuss ongoing work using single cell methods with colleagues at NIH using similar techniques.
-
--Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
-
--Discuss hurdles that arise in the course of our research in topic-focused discussion sessions.
+1. Discuss ongoing work using single cell methods with colleagues at NIH using similar techniques.
+2. Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
+3. Discuss hurdles that arise in the course of our research in topic-focused discussion sessions.
 
 ### Meeting Formats
 
 #### 2 x 20min Presentations
--Data sharing session where two people using single cell for their research present their work
-
--Friendly environment to get feedback and suggestions
+1. Data sharing session where two people using single cell for their research present their work
+2. Friendly environment to get feedback and suggestions
 
 #### Discussion Sections
--Open format meeting to discuss a topic, technique, or recent paper(s)
-
--Moderator organized; participant led
+1. Open format meeting to discuss a topic, technique, or recent paper(s)
+2. Moderator organized; participant led
 
 
 ### Upcoming Events
