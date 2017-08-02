@@ -21,7 +21,7 @@ Join the Single Cell Genomics SIG listserv.
 For joining the Single Cell Genomics SIG listserv:
 1. Go here: https://list.nih.gov
 2. You may need to set up an account – this is a different login process than your NIH ID, since it is accessible to non-NIH folks too.
-3. Login and then search for “singlecellgenomics-l”
+3. Login, search for “singlecellgenomics-l” and subscribe
 
 This will allow you to subscribe to this listserv and you should be able to see some of the message archives on there as well.
 
