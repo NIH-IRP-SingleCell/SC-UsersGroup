@@ -10,8 +10,8 @@ We will be posting information about upcoming events and other information here.
 ### Meeting Formats
 
 #### 2 x 20min Presentations
--Data sharing session where two people using single cell for their research present their work 
-Friendly environment to get feedback and suggestions
+-Data sharing session where two people using single cell for their research present their work
+-Friendly environment to get feedback and suggestions
 #### Discussion Sections
 -Open format meeting to discuss a topic, technique, or recent paper(s)
 -Moderator organized; participant led
