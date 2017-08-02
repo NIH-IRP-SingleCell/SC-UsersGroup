@@ -12,8 +12,6 @@ Sept 6th @ 10am (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
 
 Sept 20th @ 10am (Bld35A, GG607): Discussion Group - Topic TBD
 
-Oct 13th All Day (Bld35A, Rm 620): 10X Genomics-sponsored mini symposium
-
 
 
 ### How do I get notified about upcoming events?
