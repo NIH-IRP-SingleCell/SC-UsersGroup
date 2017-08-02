@@ -1,16 +1,32 @@
-## Welcome to the Single Cell Genomics SIG Users Group webpage
+## Welcome to the Single Cell Genomics SIG Users Group
 
 We will be posting information about upcoming events and other information here.
 
+### Goals of this Users Group:
+-Discuss ongoing work using single cell methods with colleagues at NIH using similar techniques. 
+-Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
+-Discuss hurdles that arise in the course of our research in topic-focused discussion sessions.
+
+### Meeting Formats
+
+#### 2 x 20min Presentations
+-Data sharing session where two people using single cell for their research present their work 
+Friendly environment to get feedback and suggestions
+#### Discussion Sections
+-Open format meeting to discuss a topic, technique, or recent paper(s)
+-Moderator organized; participant led
 
 
 ### Upcoming Events
 
-Aug 16th @ 10am (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
+#### Aug 16th @ 10am 
+(Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
-Sept 6th @ 10am (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
+#### Sept 6th @ 10am 
+(Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
 
-Sept 20th @ 10am (Bld35A, GG607): Discussion Group - Topic TBD
+#### Sept 20th @ 10am 
+(Bld35A, GG607): Discussion Group - Topic TBD
 
 
 
@@ -37,7 +53,7 @@ If you would like to present or lead a discussion group, please contact one of u
 
 ### Contact Us 
 
-Organizing Team:
+#### Organizing Team:
 
 Mike Kelly (NIDCD)
 Jamie Diemer (NHGRI)
@@ -46,6 +62,7 @@ Erika Kwon (NHGRI)
 Chen Yao (NIAMS)
 Erica Bresciani (NHGRI)
 Lingling Miao (NIAMS)
+Luigi Alvarado (NHLBI)
 
 
 
