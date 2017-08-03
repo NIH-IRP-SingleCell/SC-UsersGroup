@@ -23,17 +23,13 @@ We will be posting information about upcoming events and other information here.
 #### Aug 16th @ 10am 
 (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
-Webex Info: 
-Computer access: https://nih.webex.com/nih/onstage/g.php?MTID=e3648670c2593432134addd2db809e84b
-Event number: 620 293 710
-Event password: whmfPpNH
-
-Phone call-in number (US/Canada): 1-650-479-3208
-Access code: 620 293 710
+Webex Link: https://nih.webex.com/nih/onstage/g.php?MTID=e3648670c2593432134addd2db809e84b
+*Requires registration with just name and email address
 
 
 #### Sept 6th @ 10am 
 (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
+
 
 #### Sept 20th @ 10am 
 (Bld35A, GG607): Discussion Group - Topic TBD
