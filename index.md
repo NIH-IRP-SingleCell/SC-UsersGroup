@@ -23,9 +23,9 @@ We will be posting information about upcoming events and other information here.
 #### Aug 16th @ 10am 
 (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
-<a href="https://nih.webex.com/nih/onstage/g.php?MTID=e3648670c2593432134addd2db809e84b" class="external" target="_blank">Webex Link</a>
+<a href="https://nih.webex.com/nih/onstage/g.php?MTID=e3648670c2593432134addd2db809e84b" class="external" target="_blank">Webex Access Link</a> *Requires registration with just name and email address
 
-*Requires registration with just name and email address
+
 
 
 #### Sept 6th @ 10am 
@@ -42,7 +42,7 @@ We will be posting information about upcoming events and other information here.
 Join the Single Cell Genomics SIG listserv.
 
 For joining the Single Cell Genomics SIG listserv:
-1. Go here: [https://list.nih.gov]
+1. Go here: <a href="https://list.nih.gov" class="external" target="_blank">NIH Liserv Website</a>
 2. You may need to set up an account – this is a different login process than your NIH ID, since it is accessible to non-NIH folks too.
 3. Login, search for “singlecellgenomics-l” and subscribe
 
