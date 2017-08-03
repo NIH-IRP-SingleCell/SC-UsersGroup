@@ -20,19 +20,27 @@ We will be posting information about upcoming events and other information here.
 
 ### Upcoming Events
 
-#### Aug 16th @ 10am 
+#### Aug 16th, 2017 @ 10am 
 (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
 <a href="https://nih.webex.com/nih/onstage/g.php?MTID=e3648670c2593432134addd2db809e84b" class="external" target="_blank">Webex Access Link</a> *Requires registration with just name and email address
 
 
-#### Sept 6th @ 10am 
+#### Sept 6th, 2017 @ 10am 
 (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
 
 
-#### Sept 20th @ 10am 
+#### Sept 20th, 2017 @ 10am 
 (Bld35A, GG607): Discussion Group - Topic TBD
 
+
+### Past Events
+
+#### July 19th, 2017 @ 10am
+Intro Meeting, Lightning Talks, and Coffee Social
+
+#### Aug 2nd, 2017 @ 10am
+2x20min Presentation: Beth Psaila & Eli Boritz
 
 
 ### How do I get notified about upcoming events?
