@@ -23,7 +23,7 @@ We will be posting information about upcoming users group events and other infor
 #### Aug 16th, 2017 @ 10am 
 (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
-![GG607 Directions]({https://github.com/NIH-IRP-SingleCell/SC-UsersGroup}/GG607_Directions.jpg)
+![GG607 Directions](https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/GG607_Directions.jpg)
 
 <a href="https://nih.webex.com/nih/onstage/g.php?MTID=e3648670c2593432134addd2db809e84b" class="external" target="_blank">Webex Access Link</a> *Requires registration with just name and email address
 
