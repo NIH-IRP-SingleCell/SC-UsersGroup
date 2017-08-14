@@ -23,7 +23,7 @@ We will be posting information about upcoming users group events and other infor
 #### Aug 16th, 2017 @ 10am 
 (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
-<img src="https://goo.gl/photos/LHh8mcgKwEjLf3PT6">
+<img src="SC-UsersGroup/GG607_Directions.jpg">
 </a>
 
 ![GG607 Directions](https://goo.gl/photos/YGNDjyn2PE4RS8LHA)
