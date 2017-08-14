@@ -23,7 +23,7 @@ We will be posting information about upcoming users group events and other infor
 #### Aug 16th, 2017 @ 10am 
 (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
 
-<img src="SC-UsersGroup/GG607_Directions.jpg" alt="GG607 Map" class="inline"/>
+<img src="images/emoticons/cool.png" alt="hi" class="inline"/>
 
 <a href="https://nih.webex.com/nih/onstage/g.php?MTID=e3648670c2593432134addd2db809e84b" class="external" target="_blank">Webex Access Link</a> *Requires registration with just name and email address
 
