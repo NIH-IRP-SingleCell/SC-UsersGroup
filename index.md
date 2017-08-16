@@ -20,7 +20,6 @@ We will be posting information about upcoming users group events and other infor
 
 ### Upcoming Events
 
-
 #### Sept 6th, 2017 @ 10am 
 (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
 
