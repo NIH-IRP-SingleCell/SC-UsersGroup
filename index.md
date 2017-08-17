@@ -7,6 +7,7 @@ We will be posting information about upcoming users group events and other infor
 2. Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
 3. Discuss hurdles that arise in the course of our research in topic-focused discussion sessions.
 
+***
 ### Meeting Formats
 
 #### 2 x 20min Presentations
@@ -17,7 +18,7 @@ We will be posting information about upcoming users group events and other infor
 1. Open format meeting to discuss a topic, technique, or recent paper(s)
 2. Moderator organized; participant led
 
-
+***
 ### Upcoming Events
 
 #### Sept 6th, 2017 @ 10am 
