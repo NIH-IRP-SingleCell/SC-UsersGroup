@@ -1,5 +1,5 @@
-# Single Cell Users Group Discussion Section 1
-***
+## Single Cell Users Group Discussion Section 1
+
 <a href="https://nih.webex.com/nih/lsr.php?RCID=8e8e2a97468c97020caba78718c4e3f0">WebEx Recording<a/>
 <br />
 
