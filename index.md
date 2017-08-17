@@ -32,7 +32,9 @@ We will be posting information about upcoming users group events and other infor
 
 #### Aug 16th, 2017 @ 10am 
 (Bld 35A, GG607): Discussion Group ”Comparing cells across conditions”
-We hope to have an archived version of this discussion posted soon!
+<br/>
+<a href="https://nih.webex.com/nih/lsr.php?RCID=8e8e2a97468c97020caba78718c4e3f0">WebEx Recording<a/>
+<br/>
 
 #### Aug 2nd, 2017 @ 10am
 2x20min Presentation: Beth Psaila & Eli Boritz
