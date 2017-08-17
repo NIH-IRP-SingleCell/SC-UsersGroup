@@ -1,7 +1,7 @@
 ## Welcome to the Single Cell Genomics SIG Users Group
 
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
-
+***
 ### Goals of this Users Group:
 1. Discuss ongoing work using single cell methods with colleagues at NIH using similar techniques.
 2. Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
@@ -28,7 +28,7 @@ We will be posting information about upcoming users group events and other infor
 #### Sept 20th, 2017 @ 10am 
 (Bld35A, GG607): Discussion Group - Topic TBD
 
-
+***
 ### Past Events
 
 #### Aug 16th, 2017 @ 10am 
@@ -46,7 +46,7 @@ Intro Meeting, Lightning Talks, and Coffee Social
 
 
 
-
+***
 ### How do I get notified about upcoming events?
 
 Join the Single Cell Genomics SIG listserv.
@@ -67,7 +67,7 @@ If you would like to present or lead a discussion group, please contact one of u
 
 
 
-
+***
 ### Contact Us 
 
 #### Organizing Team:
