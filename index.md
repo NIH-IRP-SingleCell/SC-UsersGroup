@@ -35,6 +35,7 @@ We will be posting information about upcoming users group events and other infor
 <br/>
 <a href="https://nih.webex.com/nih/lsr.php?RCID=8e8e2a97468c97020caba78718c4e3f0">WebEx Recording<a/>
 <br/>
+*Apologies for the lack of audio for the first 5 mins - we promise we'll get better at WebEx*
 
 #### Aug 2nd, 2017 @ 10am
 2x20min Presentation: Beth Psaila & Eli Boritz
