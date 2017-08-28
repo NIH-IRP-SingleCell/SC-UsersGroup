@@ -22,8 +22,8 @@ We will be posting information about upcoming users group events and other infor
 ### Upcoming Events
 
 #### Sept 6th, 2017 @ 10am 
-(Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab & TBD
-
+(Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab (NHLBI) & Luigi Alvarado (Larochelle Lab, NHLBI)</br>
+<a href="https://nih.webex.com/mw3100/mywebex/default.do?nomenu=true&siteurl=nih&service=6&rnd=0.018004817815189145&main_url=https%3A%2F%2Fnih.webex.com%2Fec3100%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b00000004ca6eb4556761df7475e515a28ef082b53bfaf9e84ffb226ed8d2ceb9dedcf1f7%26siteurl%3Dnih%26confViewID%3D3316439179%26encryptTicket%3DSDJTSwAAAAR5XKBs0-vfMaHG8H4ugdl8ICfbIcQMvyh-6oAfHZ-egQ2%26">WebEx Link</a>
 
 #### Sept 20th, 2017 @ 10am 
 (Bld35A, GG607): Discussion Group - Topic TBD
