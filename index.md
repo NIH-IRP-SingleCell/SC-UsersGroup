@@ -21,10 +21,13 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-#### Sept 20th, 2017 @ 10am - Postponed - See SIG events <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/"> Link </a>
-
 #### Oct 18th, 2017 @ 10am 
-(Bld35A, 1G600 - Orange Skybox in Atrium): Discussion Group - Topic TBD
+Discussion Group - Topic TBD <br/>
+(Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
+
+#### Nov 8th, 2017 @ 10:00am - 2:00pm
+10X Genomics Mini Users Group Symposium
+(Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
 
 ***
 ### Past Events
