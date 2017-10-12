@@ -26,8 +26,9 @@ Discussion Group - Topic TBD <br/>
 (Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
 
 #### Nov 8th, 2017 @ 10:00am - 2:00pm
-10X Genomics Mini Users Group Symposium
-(Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
+10X Genomics Mini Users Group Symposium <br/>
+(Bld35A, Seminar Room 610) <br/>
+More info to be posted shortly... <br/>
 
 ***
 ### Past Events
