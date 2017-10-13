@@ -24,7 +24,7 @@ We will be posting information about upcoming users group events and other infor
 #### Oct 18th, 2017 @ 10am 
 Discussion Group - "Sample Prep"
 (Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
-WebEx Link: https://nih.webex.com/nih/onstage/g.php?MTID=e3b3033c9a4f8d9f3e6e650050ea112dc <br/>
+WebEx Link: <a href="https://nih.webex.com/nih/onstage/g.php?MTID=e3b3033c9a4f8d9f3e6e650050ea112dc"> WebEx Event </a> <br/>
 WebEx Call-in #: 1-650-479-3208
 WebEx Event #: 621 491 477
 
