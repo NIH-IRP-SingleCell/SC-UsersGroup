@@ -22,10 +22,14 @@ We will be posting information about upcoming users group events and other infor
 ### Upcoming Events
 
 #### Oct 18th, 2017 @ 10am 
-Discussion Group - Topic TBD <br/>
+Discussion Group - "Sample Prep"
 (Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
+WebEx Link: https://nih.webex.com/nih/onstage/g.php?MTID=e3b3033c9a4f8d9f3e6e650050ea112dc <br/>
+WebEx Call-in #: 1-650-479-3208
+WebEx Event #: 621 491 477
 
-#### Nov 8th, 2017 @ 10:00am - 2:00pm
+#### Nov 8th, 2017 @ 10:00am - 2:00pm 
+Note: (This is likely going to be rescheduled until the end of Nov) <br/>
 10X Genomics Mini Users Group Symposium <br/>
 (Bld35A, Seminar Room 610) <br/>
 More info to be posted shortly... <br/>
