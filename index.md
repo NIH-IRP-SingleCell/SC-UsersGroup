@@ -24,7 +24,6 @@ We will be posting information about upcoming users group events and other infor
 #### Oct 18th, 2017 @ 10am 
 Discussion Group - "Sample Prep"
 (Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
-<br/>
 <a href="https://nih.webex.com/nih/lsr.php?RCID=c3ae4800f2ecca016a90232203e7f304 ">WebEx Recording<a/>
 <br/>
 
