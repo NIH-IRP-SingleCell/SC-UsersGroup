@@ -26,7 +26,7 @@ Discussion Group - "Sample Prep"
 (Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
 <a href="https://nih.webex.com/nih/lsr.php?RCID=c3ae4800f2ecca016a90232203e7f304 ">WebEx Recording<a/>
 <br/>
-PDF of slides: SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf
+PDF of slides: <a href="SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf"> SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf <a/>
 
 
 #### Nov 8th, 2017 @ 10:00am - 2:00pm 
