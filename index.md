@@ -44,7 +44,7 @@ Discussion Group - "Sample Prep"
 PDF of slides: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2017-10-18_scUG%20Discussion_2.pdf"> SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf <a/>
 
 #### Sept 6th, 2017 @ 10am 
-(Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab (NHLBI) & Luigi Alvarado (Larochelle Lab, NHLBI)</br>
+(Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab (NHLBI) & Luigi Alvarado (Larochelle Lab, NHLBI)<br/>
 
 #### Aug 16th, 2017 @ 10am 
 Discussion Group ”Comparing cells across conditions”
