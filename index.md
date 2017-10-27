@@ -21,22 +21,27 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-#### Oct 18th, 2017 @ 10am 
-Discussion Group - "Sample Prep"
-(Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
-<a href="https://nih.webex.com/nih/lsr.php?RCID=c3ae4800f2ecca016a90232203e7f304 ">WebEx Recording<a/>
+#### Nov 1st, 2017 @ 10am 
+(Bld 40 Sem Rm): 2x20 Presentations – Elisabeth Heuston (Bodine Lab, NHGRI) & Stefania Dell'Orso (Office of Science & Technology, NIAMS)</br>
+<a href="https://nih.webex.com/nih/onstage/g.php?MTID=ec4e2931b943dc783221b6a9d687f31a2">WebEx Event Link (# 623 491 983)<a/>
 <br/>
-PDF of slides: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2017-10-18_scUG%20Discussion_2.pdf"> SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf <a/>
+Audio-Only Call-In #: 1-650-479-3208 <br/>
+Access code: 623 491 983 <br/>
 
-
-#### Nov 8th, 2017 @ 10:00am - 2:00pm 
-Note: (This is likely going to be rescheduled until the end of Nov) <br/>
+#### Nov 30th, 2017 @ 9:30am - 1:00pm 
 10X Genomics Mini Users Group Symposium <br/>
 (Bld35A, Seminar Room 610) <br/>
 More info to be posted shortly... <br/>
 
 ***
 ### Past Events
+
+#### Oct 18th, 2017 @ 10am 
+Discussion Group - "Sample Prep"
+(Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
+<a href="https://nih.webex.com/nih/lsr.php?RCID=c3ae4800f2ecca016a90232203e7f304 ">WebEx Recording<a/>
+<br/>
+PDF of slides: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2017-10-18_scUG%20Discussion_2.pdf"> SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf <a/>
 
 #### Sept 6th, 2017 @ 10am 
 (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab (NHLBI) & Luigi Alvarado (Larochelle Lab, NHLBI)</br>
