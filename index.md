@@ -21,12 +21,7 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-#### Nov 1st, 2017 @ 10am 
-(Bld 40 Sem Rm): 2x20 Presentations – Elisabeth Heuston (Bodine Lab, NHGRI) & Stefania Dell'Orso (Office of Science & Technology, NIAMS)<br/>
-<a href="https://nih.webex.com/nih/onstage/g.php?MTID=ec4e2931b943dc783221b6a9d687f31a2">WebEx Event Link (# 623 491 983)<a/>
-<br/>
-Audio-Only Call-In #: 1-650-479-3208 <br/>
-Access code: 623 491 983 <br/>
+
 
 #### Nov 30th, 2017 @ 9:30am - 1:00pm 
 10X Genomics Mini Users Group Symposium <br/>
@@ -35,6 +30,9 @@ More info to be posted shortly... <br/>
 
 ***
 ### Past Events
+
+#### Nov 1st, 2017 @ 10am 
+(Bld 40 Sem Rm): 2x20 Presentations – Elisabeth Heuston (Bodine Lab, NHGRI) & Stefania Dell'Orso (Office of Science & Technology, NIAMS)<br/>
 
 #### Oct 18th, 2017 @ 10am 
 Discussion Group - "Sample Prep"
