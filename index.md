@@ -23,10 +23,12 @@ We will be posting information about upcoming users group events and other infor
 
 
 
-#### Nov 30th, 2017 @ 9:30am - 1:00pm 
-10X Genomics Mini Users Group Symposium <br/>
+#### Nov 30th, 2017 @ 10:00am - 2:00pm 
+10X Genomics Mini Symposium <br/>
 (Bld35A, Seminar Room 610) <br/>
-More info to be posted shortly... <br/>
+Click <a href="https://www.eventbrite.com/e/10x-genomics-seminar-nih-tickets-37853081586">here<a/> to register to attend in person via EventBrite.<br/>
+WebEx Link: <a href="https://nih.webex.com/nih/onstage/g.php?MTID=ef2c7dbf2cdaf54b58854d058808283bc"> Event Number 625 298 297<a/>
+WebEx Audio-Only Call-In #: 1-650-479-3208 (Access Code 625 298 297 <br/>
 
 ***
 ### Past Events
