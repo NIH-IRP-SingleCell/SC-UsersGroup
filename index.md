@@ -30,6 +30,14 @@ Click <a href="https://www.eventbrite.com/e/10x-genomics-seminar-nih-tickets-378
 WebEx Link: <a href="https://nih.webex.com/nih/onstage/g.php?MTID=ef2c7dbf2cdaf54b58854d058808283bc"> Event Number 625 298 297<a/><br/>
 WebEx Audio-Only Call-In #: 1-650-479-3208 (Access Code 625 298 297 <br/>
 
+#### Dec 6th, 2017 @ 10:00am - 12:00pm 
+Partek Seminar: Single Cell Analysis with Partek Flow <br/>
+Presenter: Dr. Cherry Ignacio <br/>
+Event Description: Join us for this seminar to learn how the intuitive graphical user interface and interactive tools of Partek Flow software can simplify your scRNA-Seq analysis. We will demonstrate how to analyze a scRNA-Seq data set with multiple biological replicates and detect genes that are differentially expressed between cell populations across sample groups. <br/>
+(Bld35A, Seminar Room 620) <br/>
+Event Registration: <a href="http://www.partek.com/NIH_12.6.17">http://www.partek.com/NIH_12.6.17<a/> <br/>
+
+
 ***
 ### Past Events
 
