@@ -24,9 +24,8 @@ We will be posting information about upcoming users group events and other infor
 #### Jan 31st, 2018 @ 10am 
 Discussion Group - Topic TBD
 (Bld35A, GG607 - Bottom floor meeting room closest to parking deck) <br/>
-<a href="https://nih.webex.com/nih/onstage/g.php?MTID=ed5e6c114ee95e3e069196a1937264968">WebEx Event Link<a/>
+<a href="https://nih.webex.com/nih/onstage/g.php?MTID=ed5e6c114ee95e3e069196a1937264968">WebEx Event Link Event # 623 913 016<a/>
 <br/>
-WebEx Event Number: 623 913 016 <br/>
 WebEx Audio-Only Call-In #: 1-650-479-3208 (Access Code 623 913 016) <br/>
 
 
