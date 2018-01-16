@@ -21,25 +21,30 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
+#### Jan 31st, 2018 @ 10am 
+Discussion Group - Topic TBD
+(Bld35A, GG607 - Bottom floor meeting room closest to parking deck) <br/>
+<a href="https://nih.webex.com/nih/onstage/g.php?MTID=ed5e6c114ee95e3e069196a1937264968">WebEx Event Link<a/>
+<br/>
+WebEx Event Number: 623 913 016 <br/>
+WebEx Audio-Only Call-In #: 1-650-479-3208 (Access Code 623 913 016) <br/>
+
+
+
+
+***
+### Past Events
 
 
 #### Nov 30th, 2017 @ 10:00am - 2:00pm 
 10X Genomics Mini Symposium <br/>
 (Bld35A, Seminar Room 610) <br/>
-Click <a href="https://www.eventbrite.com/e/10x-genomics-seminar-nih-tickets-37853081586">here<a/> to register to attend in person via EventBrite.<br/>
-WebEx Link: <a href="https://nih.webex.com/nih/onstage/g.php?MTID=ef2c7dbf2cdaf54b58854d058808283bc"> Event Number 625 298 297<a/><br/>
-WebEx Audio-Only Call-In #: 1-650-479-3208 (Access Code 625 298 297 <br/>
 
 #### Dec 6th, 2017 @ 10:00am - 12:00pm 
 Partek Seminar: Single Cell Analysis with Partek Flow <br/>
 Presenter: Dr. Cherry Ignacio <br/>
 Event Description: Join us for this seminar to learn how the intuitive graphical user interface and interactive tools of Partek Flow software can simplify your scRNA-Seq analysis. We will demonstrate how to analyze a scRNA-Seq data set with multiple biological replicates and detect genes that are differentially expressed between cell populations across sample groups. <br/>
 (Bld35A, Seminar Room 620) <br/>
-Event Registration: <a href="http://www.partek.com/NIH_12.6.17">http://www.partek.com/NIH_12.6.17<a/> <br/>
-
-
-***
-### Past Events
 
 #### Nov 1st, 2017 @ 10am 
 (Bld 40 Sem Rm): 2x20 Presentations – Elisabeth Heuston (Bodine Lab, NHGRI) & Stefania Dell'Orso (Office of Science & Technology, NIAMS)<br/>
