@@ -22,7 +22,7 @@ We will be posting information about upcoming users group events and other infor
 ### Upcoming Events
 
 #### Jan 31st, 2018 @ 10am 
-Discussion Group - Topic TBD
+Discussion Group - Topic TBD <br/>
 (Bld35A, GG607 - Bottom floor meeting room closest to parking deck) <br/>
 <a href="https://nih.webex.com/nih/onstage/g.php?MTID=ed5e6c114ee95e3e069196a1937264968">WebEx Event Link Event # 623 913 016<a/>
 <br/>
@@ -105,8 +105,7 @@ Ben Voisin (NIAMS),
 Erika Kwon (NHGRI),
 Chen Yao (NIAMS),
 Erica Bresciani (NHGRI),
-Lingling Miao (NIAMS),
-Luigi Alvarado (NHLBI)
+Lingling Miao (NIAMS)
 
 
 
