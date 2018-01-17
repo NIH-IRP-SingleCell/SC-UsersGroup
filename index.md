@@ -21,6 +21,10 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
+#### Jan 17th, 2018 @ 4:15pm - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
+More Info Here: <a href="https://iig.niaid.nih.gov">https://iig.niaid.nih.gov<a/> <br/>
+And Here: <a href="https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/">https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/<a/> <br/>
+
 #### Jan 31st, 2018 @ 10am 
 Discussion Group - Topic TBD <br/>
 (Bld35A, GG607 - Bottom floor meeting room closest to parking deck) <br/>
