@@ -21,8 +21,6 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-####
-
 #### Wednesday Mar 21st, 2018 @ 10am
 2x20min Presentation: Jamie Diemer (Liu Lab - NHGRI) & Jessica Kang (Bodine Lab - NHGRI)<br/>
 Location: Bld 40 Seminar Room (Rm 1201)<br/>
