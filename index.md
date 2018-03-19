@@ -21,16 +21,15 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-#### Jan 17th, 2018 @ 4:15pm - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
-More Info Here: <a href="https://iig.niaid.nih.gov">https://iig.niaid.nih.gov<a/> <br/>
-And Here: <a href="https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/">https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/<a/> <br/>
+####
 
-#### Jan 31st, 2018 @ 10am 
-Discussion Group - Topic TBD <br/>
-(Bld35A, GG607 - Bottom floor meeting room closest to parking deck) <br/>
-<a href="https://nih.webex.com/nih/onstage/g.php?MTID=ed5e6c114ee95e3e069196a1937264968">WebEx Event Link Event # 623 913 016<a/>
-<br/>
-WebEx Audio-Only Call-In #: 1-650-479-3208 (Access Code 623 913 016) <br/>
+#### Wednesday Mar 21st, 2018 @ 10am
+2x20min Presentation: Jamie Diemer (Liu Lab - NHGRI) & Jessica Kang (Bodine Lab - NHGRI)<br/>
+Location: Bld 40 Seminar Room (Rm 1201)<br/>
+WebEx Event ID / Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e0519b0795b296fd2689607d81e3cc7d5"> 733 927 485<a/><br/>
+WebEx Event Password: RqUbAQ*3 <br/>
+WebEx Audio-Only Call-In: 1-650-479-3207 <br/>
+Access code: 733 927 485 <br/>
 
 
 
@@ -38,6 +37,13 @@ WebEx Audio-Only Call-In #: 1-650-479-3208 (Access Code 623 913 016) <br/>
 ***
 ### Past Events
 
+#### Jan 17th, 2018 @ 4:15pm - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
+More Info Here: <a href="https://iig.niaid.nih.gov">https://iig.niaid.nih.gov<a/> <br/>
+And Here: <a href="https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/">https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/<a/> <br/>
+
+#### Jan 31st, 2018 @ 10am 
+Discussion Group - "Contamination"<br/>
+(Bld35A, GG607 - Bottom floor meeting room closest to parking deck) <br/>
 
 #### Nov 30th, 2017 @ 10:00am - 2:00pm 
 10X Genomics Mini Symposium <br/>
