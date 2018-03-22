@@ -21,7 +21,7 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-#### Wednesday Mar 21st, 2018 @ 10am
+#### Wednesday Mar 28st, 2018 @ 10am (Reschuduled from Mar 21st)
 2x20min Presentation: Jamie Diemer (Liu Lab - NHGRI) & Jessica Kang (Bodine Lab - NHGRI)<br/>
 Location: Bld 40 Seminar Room (Rm 1201)<br/>
 WebEx Event ID / Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e0519b0795b296fd2689607d81e3cc7d5"> 733 927 485<a/><br/>
