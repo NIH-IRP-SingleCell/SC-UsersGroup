@@ -29,8 +29,18 @@ WebEx Event Password: Wfprza$3 <br/>
 WebEx Audio-Only Call-In: 1-650-479-3207 <br/>
 Access code: 858 990 128 <br/>
 
+#### Wednesday Sept 22nd, 2018 @ 10am
+NIH Single Cell Workshop - Single Cell Sorting for Plate-Based Genomic Assays <br/>
+Location: NIH Building 35 Room GG607 <br/>
+Time: 1:30 - 5PM <br/>
+Discussion @ 4:10-5pm with Single Cell Users Group <br/>
 
+#### Wednesday Oct 17th, 2018 @ 10am
+Discussion Session: Trajectory Analysis <br/>
 
+#### Wednesday Nov 14th, 2018 @ 10am
+2x20min Presentations <br/>
+Location: Bld 40 Seminar Room (Rm 1201/1203)<br/>
 
 ***
 ### Past Events
