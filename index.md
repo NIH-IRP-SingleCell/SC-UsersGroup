@@ -21,22 +21,13 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-#### Wednesday Sept 19th, 2018 @ 10am
-2x20min Presentation: Erica Bresciani (Liu Lab - NHGRI) & Sharvani Mahadevaraju / Justin Fear (Oliver Lab - NIDDK)<br/>
-Location: Bld 40 Seminar Room (Rm 1201/1203)<br/>
-WebEx Event ID / Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2aa4151347796d29bd16c668151908f2"> 858 990 128 <a/><br/>
-WebEx Event Password: Wfprza$3 <br/>
-WebEx Audio-Only Call-In: 1-650-479-3207 <br/>
-Access code: 858 990 128 <br/>
-
-#### Wednesday Sept 22nd, 2018 @ 10am
-NIH Single Cell Workshop - Single Cell Sorting for Plate-Based Genomic Assays <br/>
-Location: NIH Building 35 Room GG607 <br/>
-Time: 1:30 - 5PM <br/>
-Discussion @ 4:10-5pm with Single Cell Users Group <br/>
-
 #### Wednesday Oct 17th, 2018 @ 10am
-Discussion Session: Trajectory Analysis <br/>
+Discussion Session: “Trajectory Analysis: Orienting single cell along a right path” <br/>
+<a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e1d20db373983194eb22ee258dd6ebb45">WebEx Link 732 681 294<a/> <br/>
+Event password: qJiPFk*4  <br/>
+Call-in toll number (US/Canada): 1-650-479-3207 <br/>
+: <a href="https://cbiit.webex.com/cbiit/globalcallin.php?serviceType=EC&ED=681611962&tollFree=0">Global call-in numbers<a/>  <br/>
+Access code: 732 681 294 <br/>
 
 #### Wednesday Nov 14th, 2018 @ 10am
 2x20min Presentations <br/>
@@ -44,6 +35,12 @@ Location: Bld 40 Seminar Room (Rm 1201/1203)<br/>
 
 ***
 ### Past Events
+
+#### Wednesday Sept 22nd, 2018 @ 10am
+NIH Single Cell Workshop - Single Cell Sorting for Plate-Based Genomic Assays <br/>
+
+#### Wednesday Sept 19th, 2018 @ 10am
+2x20min Presentation: Erica Bresciani (Liu Lab - NHGRI) & Sharvani Mahadevaraju / Justin Fear (Oliver Lab - NIDDK)<br/>
 
 #### Wednesday Mar 28st, 2018 @ 10am (Reschuduled from Mar 21st)
 2x20min Presentation: Jamie Diemer (Liu Lab - NHGRI) & Jessica Kang (Bodine Lab - NHGRI)<br/>
