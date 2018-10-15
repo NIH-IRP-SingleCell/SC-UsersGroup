@@ -26,7 +26,7 @@ Discussion Session: “Trajectory Analysis: Orienting single cell along a right 
 <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e1d20db373983194eb22ee258dd6ebb45">WebEx Link 732 681 294<a/> <br/>
 Event password: qJiPFk*4  <br/>
 Call-in toll number (US/Canada): 1-650-479-3207 <br/>
-: <a href="https://cbiit.webex.com/cbiit/globalcallin.php?serviceType=EC&ED=681611962&tollFree=0">Global call-in numbers<a/>  <br/>
+Global call-in numbers <a href="https://cbiit.webex.com/cbiit/globalcallin.php?serviceType=EC&ED=681611962&tollFree=0">info<a/>  <br/>
 Access code: 732 681 294 <br/>
 
 #### Wednesday Nov 14th, 2018 @ 10am
