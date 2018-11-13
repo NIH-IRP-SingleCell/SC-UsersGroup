@@ -1,38 +1,40 @@
-## Welcome to the Single Cell Genomics SIG Users Group
+# Welcome to the Single Cell Genomics SIG Users Group
 
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
 ***
-### Goals of this Users Group:
+## Goals of this Users Group:
 1. Discuss ongoing work using single cell methods with colleagues at NIH using similar techniques.
 2. Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
 3. Discuss hurdles that arise in the course of our research in topic-focused discussion sessions.
 
 ***
-### Meeting Formats
+## Meeting Formats
 
-#### 2 x 20min Presentations
+### 2 x 20min Presentations
 1. Data sharing session where two people using single cell for their research present their work
 2. Friendly environment to get feedback and suggestions
 
-#### Discussion Sections
+### Discussion Sections
 1. Open format meeting to discuss a topic, technique, or recent paper(s)
 2. Moderator organized; participant led
 
 ***
-### Upcoming Events
+## Upcoming Events
 
 
 
-#### Wednesday Nov 14th, 2018 @ 10am
-2x20min Presentations <br/>
+### Wednesday Nov 14th, 2018 @ 10am
+
+#### 2x20min Presentations <br/>
 Location: Bld 40 Seminar Room (Rm 1201/1203)<br/>
-Art Shaffer, PhD <br/>
+#### Art Shaffer, PhD <br/>
 NCI – Lymphoid Malignancies Branch (Staudt Lab) <br/>
 ““New approaches to understanding and treating B cell Lymphoma, or How I learned to stop worrying and love t-SNE plots” <br/>
-Shouguo Gao, PhD <br/>
+CS022935_Shern_10X-005_Data
+#### Shouguo Gao, PhD <br/>
 NHLBI - Neal Young’s Lab <br/>
 "Single cell RNA sequencing and V(D)J profiling of T-cell large granular lymphocytosis" <br/>
-
+<br/>
 WebEx Event number: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2427aec5e7c23dcb476882420f1285f7 "> 730 960 534 <a/> <br/>
 Event password: tP2awT2* <br/>
 
@@ -42,68 +44,68 @@ Access code: 730 960 534 <br/>
 
 
 ***
-### Past Events
+## Past Events
 
-#### Wednesday Oct 17th, 2018 @ 10am
+### Wednesday Oct 17th, 2018 @ 10am
 Discussion Session: “Trajectory Analysis: Orienting single cell along a right path” <br/>
 
-#### Wednesday Sept 22nd, 2018 @ 10am
+### Wednesday Sept 22nd, 2018 @ 10am
 NIH Single Cell Workshop - Single Cell Sorting for Plate-Based Genomic Assays <br/>
 
-#### Wednesday Sept 19th, 2018 @ 10am
+### Wednesday Sept 19th, 2018 @ 10am
 2x20min Presentation: Erica Bresciani (Liu Lab - NHGRI) & Sharvani Mahadevaraju / Justin Fear (Oliver Lab - NIDDK)<br/>
 
-#### Wednesday Mar 28st, 2018 @ 10am (Reschuduled from Mar 21st)
+### Wednesday Mar 28st, 2018 @ 10am (Reschuduled from Mar 21st)
 2x20min Presentation: Jamie Diemer (Liu Lab - NHGRI) & Jessica Kang (Bodine Lab - NHGRI)<br/>
 
-#### Jan 17th, 2018 @ 4:15pm - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
+### Jan 17th, 2018 @ 4:15pm - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
 More Info Here: <a href="https://iig.niaid.nih.gov">https://iig.niaid.nih.gov<a/> <br/>
 And Here: <a href="https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/">https://nih-irp-singlecell.github.io/SingleCellGenomics-SIG/<a/> <br/>
 
-#### Jan 31st, 2018 @ 10am 
+### Jan 31st, 2018 @ 10am 
 Discussion Group - "Contamination"<br/>
 (Bld35A, GG607 - Bottom floor meeting room closest to parking deck) <br/>
 
-#### Nov 30th, 2017 @ 10:00am - 2:00pm 
+### Nov 30th, 2017 @ 10:00am - 2:00pm 
 10X Genomics Mini Symposium <br/>
 (Bld35A, Seminar Room 610) <br/>
 
-#### Dec 6th, 2017 @ 10:00am - 12:00pm 
+### Dec 6th, 2017 @ 10:00am - 12:00pm 
 Partek Seminar: Single Cell Analysis with Partek Flow <br/>
 Presenter: Dr. Cherry Ignacio <br/>
 Event Description: Join us for this seminar to learn how the intuitive graphical user interface and interactive tools of Partek Flow software can simplify your scRNA-Seq analysis. We will demonstrate how to analyze a scRNA-Seq data set with multiple biological replicates and detect genes that are differentially expressed between cell populations across sample groups. <br/>
 (Bld35A, Seminar Room 620) <br/>
 
-#### Nov 1st, 2017 @ 10am 
+### Nov 1st, 2017 @ 10am 
 (Bld 40 Sem Rm): 2x20 Presentations – Elisabeth Heuston (Bodine Lab, NHGRI) & Stefania Dell'Orso (Office of Science & Technology, NIAMS)<br/>
 
-#### Oct 18th, 2017 @ 10am 
+### Oct 18th, 2017 @ 10am 
 Discussion Group - "Sample Prep"
 (Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
 <a href="https://nih.webex.com/nih/lsr.php?RCID=c3ae4800f2ecca016a90232203e7f304 ">WebEx Recording<a/>
 <br/>
 PDF of slides: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2017-10-18_scUG%20Discussion_2.pdf"> SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf <a/>
 
-#### Sept 6th, 2017 @ 10am 
+### Sept 6th, 2017 @ 10am 
 (Bld 40 Sem Rm): 2x20 Presentations – Barrett Lab (NHLBI) & Luigi Alvarado (Larochelle Lab, NHLBI)<br/>
 
-#### Aug 16th, 2017 @ 10am 
+### Aug 16th, 2017 @ 10am 
 Discussion Group ”Comparing cells across conditions”
 <br/>
 <a href="https://nih.webex.com/nih/lsr.php?RCID=8e8e2a97468c97020caba78718c4e3f0">WebEx Recording<a/>
 <br/>
 *Apologies for the lack of audio for the first 5 mins - we promise we'll get better at WebEx*
 
-#### Aug 2nd, 2017 @ 10am
+### Aug 2nd, 2017 @ 10am
 2x20min Presentation: Beth Psaila & Eli Boritz
 
-#### July 19th, 2017 @ 10am
+### July 19th, 2017 @ 10am
 Intro Meeting, Lightning Talks, and Coffee Social
 
 
 
 ***
-### How do I get notified about upcoming events?
+## How do I get notified about upcoming events?
 
 Join the Single Cell Genomics SIG listserv.
 
@@ -116,7 +118,7 @@ This will allow you to subscribe to this listserv and you should be able to see 
 
 
 
-### Get Involved
+## Get Involved
 
 If you would like to present or lead a discussion group, please contact one of us on the organizing team (you can find our email addresses on NIH global).
 
@@ -124,9 +126,9 @@ If you would like to present or lead a discussion group, please contact one of u
 
 
 ***
-### Contact Us 
+## Contact Us 
 
-#### Organizing Team:
+### Organizing Team:
 
 Jamie Diemer (NHGRI),
 Ben Voisin (NIAMS),
