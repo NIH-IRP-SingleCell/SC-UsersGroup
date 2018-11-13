@@ -21,20 +21,31 @@ We will be posting information about upcoming users group events and other infor
 ***
 ### Upcoming Events
 
-#### Wednesday Oct 17th, 2018 @ 10am
-Discussion Session: “Trajectory Analysis: Orienting single cell along a right path” <br/>
-<a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e1d20db373983194eb22ee258dd6ebb45">WebEx Link 732 681 294<a/> <br/>
-Event password: qJiPFk*4  <br/>
-Call-in toll number (US/Canada): 1-650-479-3207 <br/>
-Global call-in numbers <a href="https://cbiit.webex.com/cbiit/globalcallin.php?serviceType=EC&ED=681611962&tollFree=0">info<a/>  <br/>
-Access code: 732 681 294 <br/>
+
 
 #### Wednesday Nov 14th, 2018 @ 10am
 2x20min Presentations <br/>
 Location: Bld 40 Seminar Room (Rm 1201/1203)<br/>
+Art Shaffer, PhD <br/>
+NCI – Lymphoid Malignancies Branch (Staudt Lab) <br/>
+““New approaches to understanding and treating B cell Lymphoma, or How I learned to stop worrying and love t-SNE plots” <br/>
+Shouguo Gao, PhD <br/>
+NHLBI - Neal Young’s Lab <br/>
+"Single cell RNA sequencing and V(D)J profiling of T-cell large granular lymphocytosis" <br/>
+
+WebEx Event number: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e2427aec5e7c23dcb476882420f1285f7 "> 730 960 534 <a/> <br/>
+Event password: tP2awT2* <br/>
+
+Call-in toll number (US/Canada): 1-650-479-3207 <br/>
+Global call-in numbers: <a href="https://cbiit.webex.com/cbiit/globalcallin.php?serviceType=EC&ED=691047252&tollFree=0"> Here <a/> <br/>
+Access code: 730 960 534 <br/>
+
 
 ***
 ### Past Events
+
+#### Wednesday Oct 17th, 2018 @ 10am
+Discussion Session: “Trajectory Analysis: Orienting single cell along a right path” <br/>
 
 #### Wednesday Sept 22nd, 2018 @ 10am
 NIH Single Cell Workshop - Single Cell Sorting for Plate-Based Genomic Assays <br/>
@@ -117,13 +128,15 @@ If you would like to present or lead a discussion group, please contact one of u
 
 #### Organizing Team:
 
-Mike Kelly (NIDCD),
 Jamie Diemer (NHGRI),
 Ben Voisin (NIAMS),
-Erika Kwon (NHGRI),
-Chen Yao (NIAMS),
 Erica Bresciani (NHGRI),
-Lingling Miao (NIAMS)
+Chen Yao (NIAMS),
+Stefan Cordes (NHLBI),
+Lingling Miao (NIAMS),
+Supreet Agarwal (NCI),
+Byunghyun Kang (NIAID)
+Mike Kelly (NCI)
 
 
 
