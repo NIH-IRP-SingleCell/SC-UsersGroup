@@ -31,7 +31,27 @@ Location: Bld 35, Rm 620 <br/>
 · Clustering and interpretation of clusters <br/>
 · High dimension dataset visualization background <br/>
 Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
-Please RSVP here to make sure we have seat capacity: <a href="https://www.eventbrite.com/e/single-cell-genomics-analysis-under-the-hood-workshop-session-i-tickets-57188494326?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text">EventBrite RSVP<a/> <br/>
+Please RSVP here to make sure we have seat capacity: <!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.com/e/single-cell-genomics-analysis-under-the-hood-workshop-session-ii-tickets-57198367858" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-57198367858" type="button">RSVP Here</button>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '57198367858',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-57198367858',
+        onOrderComplete: exampleCallback
+    });
+</script>
 WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e76deea1314af40ab72c83325b600d295">735 074 997<a/> (password: JtvDNb*8) or audio-only #: 1-650-479-3207 <br/>
 
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
