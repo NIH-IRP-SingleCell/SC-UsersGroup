@@ -1,22 +1,6 @@
 # Welcome to the Single Cell Genomics SIG Users Group
 
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
-***
-## Goals of this Users Group:
-1. Discuss ongoing work using single cell methods with colleagues at NIH using similar techniques.
-2. Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
-3. Discuss hurdles that arise in the course of our research in topic-focused discussion sessions.
-
-***
-## Meeting Formats
-
-### 2 x 20min Presentations
-1. Data sharing session where two people using single cell for their research present their work
-2. Friendly environment to get feedback and suggestions
-
-### Discussion Sections
-1. Open format meeting to discuss a topic, technique, or recent paper(s)
-2. Moderator organized; participant led
 
 ***
 ## Upcoming Events
@@ -43,6 +27,23 @@ Location: Bld 35, Rm GG607 <br/>
 Workshop coordinator: Stefan Cordes and Assaf Magen <br/>v
 Please RSVP here to make sure we have seat capacity: <a href="https://www.eventbrite.com/e/single-cell-genomics-analysis-under-the-hood-workshop-session-ii-tickets-57198367858?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text">EventBrite RSVP<a/> <br/>
 WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e9b1a14afeb53a8d2250c30d6921b12a4">734 686 120<a/> (password: 2MhZDQg*) or audio-only #: 1-650-479-3207 <br/>
+
+***
+## Goals of this Users Group:
+1. Discuss ongoing work using single cell methods with colleagues at NIH using similar techniques.
+2. Coordinate regular meetings to present work in a friendly environment to gain feedback and suggestions.
+3. Discuss hurdles that arise in the course of our research in topic-focused discussion sessions.
+
+***
+## Meeting Formats
+
+### 2 x 20min Presentations
+1. Data sharing session where two people using single cell for their research present their work
+2. Friendly environment to get feedback and suggestions
+
+### Discussion Sections
+1. Open format meeting to discuss a topic, technique, or recent paper(s)
+2. Moderator organized; participant led
 
 ***
 ## Past Events
@@ -86,8 +87,6 @@ Event Description: Join us for this seminar to learn how the intuitive graphical
 ### Oct 18th, 2017 @ 10am 
 Discussion Group - "Sample Prep"
 (Bld35A, 1G600 - Orange Skybox in Atrium) <br/>
-<a href="https://nih.webex.com/nih/lsr.php?RCID=c3ae4800f2ecca016a90232203e7f304 ">WebEx Recording<a/>
-<br/>
 PDF of slides: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2017-10-18_scUG%20Discussion_2.pdf"> SC-UsersGroup/2017-10-18_scUG Discussion_2.pdf <a/>
 
 ### Sept 6th, 2017 @ 10am 
@@ -95,10 +94,6 @@ PDF of slides: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob
 
 ### Aug 16th, 2017 @ 10am 
 Discussion Group ”Comparing cells across conditions”
-<br/>
-<a href="https://nih.webex.com/nih/lsr.php?RCID=8e8e2a97468c97020caba78718c4e3f0">WebEx Recording<a/>
-<br/>
-*Apologies for the lack of audio for the first 5 mins - we promise we'll get better at WebEx*
 
 ### Aug 2nd, 2017 @ 10am
 2x20min Presentation: Beth Psaila & Eli Boritz
@@ -141,7 +136,7 @@ Chen Yao (NIAMS),
 Stefan Cordes (NHLBI),
 Lingling Miao (NIAMS),
 Supreet Agarwal (NCI),
-Byunghyun Kang (NIAID)
+Byunghyun Kang (NIAID),
 Mike Kelly (NCI)
 
 
