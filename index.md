@@ -25,21 +25,21 @@ We will be posting information about upcoming users group events and other infor
 Date: March 6th, 2019 <br/>
 Time: 2:00-4:00pm <br/>
 Location: Bld 35, Rm 620 <br/>
-·Basic utility / concepts of scRNA-Seq <br/>
-·Understanding “primary” analysis outputs, challenges <br/>
-·Data pre-processing steps: filtering, dimensionality reduction, etc <br/>
-·Clustering and interpretation of clusters <br/>
-·High dimension dataset visualization background <br/>
+· Basic utility / concepts of scRNA-Seq <br/>
+· Understanding “primary” analysis outputs, challenges <br/>
+· Data pre-processing steps: filtering, dimensionality reduction, etc <br/>
+· Clustering and interpretation of clusters <br/>
+· High dimension dataset visualization background <br/>
 Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
 Please RSVP here to make sure we have seat capacity: <a href="https://www.eventbrite.com/e/single-cell-genomics-analysis-under-the-hood-workshop-session-i-tickets-57188494326?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text">EventBrite RSVP<a/> <br/>
-WebEx Link: 735 074 997(password: JtvDNb*8) or audio-only #: 1-650-479-3207 <br/>
+WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e76deea1314af40ab72c83325b600d295">735 074 997<a/> (password: JtvDNb*8) or audio-only #: 1-650-479-3207 <br/>
 
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
 Date: March 13th, 2019 <br/>
 Time: 10:00-11:30am <br/>
 Location: Bld 35, Rm GG607 <br/>
-·Rational workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code as an example <br/>
-·Basics of trajectory analysis <br/>
+· Rational workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code as an example <br/>
+· Basics of trajectory analysis <br/>
 Workshop coordinator: Stefan Cordes and Assaf Magen <br/>v
 Please RSVP here to make sure we have seat capacity: <a href="https://www.eventbrite.com/e/single-cell-genomics-analysis-under-the-hood-workshop-session-ii-tickets-57198367858?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text">EventBrite RSVP<a/> <br/>
 WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e9b1a14afeb53a8d2250c30d6921b12a4">734 686 120<a/> (password: 2MhZDQg*) or audio-only #: 1-650-479-3207 <br/>
