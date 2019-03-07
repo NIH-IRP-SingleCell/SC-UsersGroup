@@ -21,7 +21,7 @@ WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e76deea131
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
 Date: March 13th, 2019 <br/>
 Time: 10:00-11:30am <br/>
-Location: Bld 35, Rm GG607 <br/>
+Location: Bld 49 <br/>
 · Rational workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code as an example <br/>
 · Basics of trajectory analysis <br/>
 Workshop coordinator: Stefan Cordes and Assaf Magen <br/>v
