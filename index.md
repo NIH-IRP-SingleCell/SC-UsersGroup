@@ -3,20 +3,12 @@
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
 
 ***
-## Upcoming Events
-
-### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics
-Date: March 6th, 2019 <br/>
-Time: 2:00-4:00pm <br/>
-Location: Bld 35, Rm 620 <br/>
-· Basic utility / concepts of scRNA-Seq <br/>
-· Understanding “primary” analysis outputs, challenges <br/>
-· Data pre-processing steps: filtering, dimensionality reduction, etc <br/>
-· Clustering and interpretation of clusters <br/>
-· High dimension dataset visualization background <br/>
+### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics (March 6th, 2019)
 Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
-Please RSVP here to make sure we have seat capacity: <a href="https://www.eventbrite.com/e/single-cell-genomics-analysis-under-the-hood-workshop-session-i-tickets-57188494326?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text">EventBrite RSVP</a>
-WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e76deea1314af40ab72c83325b600d295">735 074 997<a/> (password: JtvDNb*8) or audio-only #: 1-650-479-3207 <br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2017-10-18_scUG%20Discussion_2.pdf">Link to Slides<a/> <br/>
+
+***
+## Upcoming Events
 
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
 Date: March 13th, 2019 <br/>
@@ -47,6 +39,16 @@ WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e9b1a14afe
 
 ***
 ## Past Events
+
+### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics
+Date: March 6th, 2019 <br/>
+· Basic utility / concepts of scRNA-Seq <br/>
+· Understanding “primary” analysis outputs, challenges <br/>
+· Data pre-processing steps: filtering, dimensionality reduction, etc <br/>
+· Clustering and interpretation of clusters <br/>
+· High dimension dataset visualization background <br/>
+Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2017-10-18_scUG%20Discussion_2.pdf">Link to Slides<a/> <br/>
 
 ### Wednesday Nov 14th, 2018 @ 10am
 2x20min Presentation: Art Shaffer (Staudt Lab - NCI) & Shouguo Gao (Young Lab - NHLBI) <br/>
@@ -137,6 +139,7 @@ Stefan Cordes (NHLBI),
 Lingling Miao (NIAMS),
 Supreet Agarwal (NCI),
 Byunghyun Kang (NIAID),
+Assaf Magen (NCI),
 Mike Kelly (NCI)
 
 
