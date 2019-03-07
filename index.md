@@ -3,9 +3,15 @@
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
 
 ***
-## Upcoming Events
+## Recently Past Event
 
 ### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics
+
+Slides now available here: 
+<br/>
+Please give us feedback about this workshop: <a href="https://pollev.com/singlecellus093">Survery Link (via Poll Everywhere)<a/> <br/>
+<br/>
+
 Date: March 6th, 2019 <br/>
 Time: 2:00-4:00pm <br/>
 Location: Bld 35, Rm 620 <br/>
@@ -15,8 +21,9 @@ Location: Bld 35, Rm 620 <br/>
 · Clustering and interpretation of clusters <br/>
 · High dimension dataset visualization background <br/>
 Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
-Please RSVP here to make sure we have seat capacity: <a href="https://www.eventbrite.com/e/single-cell-genomics-analysis-under-the-hood-workshop-session-i-tickets-57188494326?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text">EventBrite RSVP</a>
-WebEx Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e76deea1314af40ab72c83325b600d295">735 074 997<a/> (password: JtvDNb*8) or audio-only #: 1-650-479-3207 <br/>
+
+
+## Upcoming Events
 
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
 Date: March 13th, 2019 <br/>
