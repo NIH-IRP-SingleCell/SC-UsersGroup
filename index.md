@@ -8,7 +8,7 @@ We will be posting information about upcoming users group events and other infor
 ### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics
 
 Slides now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-03-06_scRNAseq_Under_the_Hood_Session1_small.pdf">PDF of Slides<a/><br/>
-Please give us feedback about this workshop: <a href="https://pollev.com/singlecellus093">Survery Link (via Poll Everywhere)<a/> <br/>
+Please give us feedback about this workshop: <a href="https://goo.gl/forms/DaDdtuuuoUcL6Ckt1">Survery Link (via Google Forms)<a/> <br/>
 <br/>
 
 Date: March 6th, 2019 <br/>
