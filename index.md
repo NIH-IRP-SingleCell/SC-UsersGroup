@@ -25,9 +25,9 @@ Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
 ## Upcoming Events
 
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
-Date: March 13th, 2019 <br/>
-Time: 10:00-11:30am <br/>
-Location: Bld 49 <br/>
+Rescheduled Date: April 3rd, 2019 <br/>
+Time: 9:30-11:00am <br/>
+Location: Bld 40, Room 1201/1203 <br/>
 · Rational workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code as an example <br/>
 · Basics of trajectory analysis <br/>
 Workshop coordinator: Stefan Cordes and Assaf Magen <br/>v
