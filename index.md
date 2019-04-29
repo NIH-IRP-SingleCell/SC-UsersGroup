@@ -12,8 +12,6 @@ Please give us feedback about this workshop: <a href="https://goo.gl/forms/DaDdt
 <br/>
 
 Date: March 6th, 2019 <br/>
-Time: 2:00-4:00pm <br/>
-Location: Bld 35, Rm 620 <br/>
 · Basic utility / concepts of scRNA-Seq <br/>
 · Understanding “primary” analysis outputs, challenges <br/>
 · Data pre-processing steps: filtering, dimensionality reduction, etc <br/>
@@ -24,11 +22,11 @@ Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
 
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
 
-Slides and R-markdown code will be available shortly
+Slide now availalbe here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-04-24_SCUG_Workshop-SessionII.pdf">PDF of Slides<a/><br/>
+  
+R-markdown code will be available shortly<br/>
 
-Date: April 10th, 2019 <br/>
-Time: 9:30-11:00am <br/>
-Location: Bld 49, Room 1A51/1A59 <br/>
+Date: April 24th, 2019 <br/>
 · Workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code <br/>
 · Basic trajectory analysis <br/>
 Workshop coordinator: Stefan Cordes and Assaf Magen <br/>
