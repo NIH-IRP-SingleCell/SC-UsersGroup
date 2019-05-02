@@ -28,7 +28,7 @@ Additional materials available here: <br/>
 <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.Rmd">R Markdown<a/><br/>
 <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.html">HTML of R Markdown<a/><br/>
 <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data.pdf">ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data<a/><br/>
-<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/utilities.R">convenience utilitiesa/><br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/utilities.R">convenience utilities<a/><br/>
 
 Date: April 24th, 2019 <br/>
 · Workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code <br/>
