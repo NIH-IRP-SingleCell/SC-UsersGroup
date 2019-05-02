@@ -23,8 +23,12 @@ Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
 ### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
 
 Slide now availalbe here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-04-24_SCUG_Workshop-SessionII.pdf">PDF of Slides<a/><br/>
-  
-R-markdown code will be available shortly<br/>
+
+Additional materials available here: <br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.Rmd">R Markdown<a/><br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.html">HTML of R Markdown<a/><br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data.pdf">ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data<a/><br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/utilities.R">convenience utilitiesa/><br/>
 
 Date: April 24th, 2019 <br/>
 · Workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code <br/>
