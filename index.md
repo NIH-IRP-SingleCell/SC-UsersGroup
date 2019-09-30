@@ -82,7 +82,7 @@ NIH Single Cell Workshop - Single Cell Sorting for Plate-Based Genomic Assays <b
 ### Wednesday Sept 19th, 2018 @ 10am
 2x20min Presentation: Erica Bresciani (Liu Lab - NHGRI) & Sharvani Mahadevaraju / Justin Fear (Oliver Lab - NIDDK)<br/>
 
-### Wednesday Mar 28st, 2018 @ 10am (Reschuduled from Mar 21st)
+### Wednesday Mar 28st, 2018 @ 10am (Rescheduled from Mar 21st)
 2x20min Presentation: Jamie Diemer (Liu Lab - NHGRI) & Jessica Kang (Bodine Lab - NHGRI)<br/>
 
 ### Jan 17th, 2018 @ 4:15pm - Seminar of Interest - Immunology Interest Group Seminar - Thomas Ciucci, Ph.D. (NCI-CCR - Bosselut Lab)
