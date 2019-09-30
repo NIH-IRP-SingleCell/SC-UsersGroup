@@ -1,52 +1,23 @@
-# Welcome to the Single Cell Genomics SIG Users Group
+# Welcome to the Single Cell Genomics SIG Users Group;
 
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
 
 ***
-## Recently Past Event
-
-### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics
-
-Slides now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-03-06_scRNAseq_Under_the_Hood_Session1_small.pdf">PDF of Slides<a/><br/>
-Please give us feedback about this workshop: <a href="https://goo.gl/forms/DaDdtuuuoUcL6Ckt1">Survey Link (via Google Forms)<a/> <br/>
-<br/>
-
-Date: March 6th, 2019 <br/>
-· Basic utility / concepts of scRNA-Seq <br/>
-· Understanding “primary” analysis outputs, challenges <br/>
-· Data pre-processing steps: filtering, dimensionality reduction, etc <br/>
-· Clustering and interpretation of clusters <br/>
-· High dimension dataset visualization background <br/>
-Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
-
-
-### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
-
-Slide now availalbe here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-04-24_SCUG_Workshop-SessionII.pdf">PDF of Slides<a/><br/>
-
-Additional materials available here: <br/>
-<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.Rmd">R Markdown<a/><br/>
-<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.html">HTML of R Markdown<a/><br/>
-<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data.pdf">ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data<a/><br/>
-<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/utilities.R">convenience utilities<a/><br/>
-
-Date: April 24th, 2019 <br/>
-· Workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code <br/>
-· Basic trajectory analysis <br/>
-Workshop coordinator: Stefan Cordes and Assaf Magen <br/>
 
 ## Upcoming Events
 
-April 24th: 2x20 Talks <br/>
-<br/>
-May 22nd: Discussion Session <br/>
-<br/>
-June 26th: 2x20 Talks <br/>
-<br/>
-July 24th: Discussion Session <br/>
-<br/>
-August 21st: 2x20 Talks <br/>
-<br/>
+### Wednesday, October 2nd 10-11am - Discussion Session "Single Nuclei"
+Bld 35, Rm GG607
+WebEx Event Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e908d04153b254f06815a459f7ba48905">852 141 442</a>
+Event Password: 4HpXKRS*
+Audio-only Call-In #: 1-650-479-3207 (Access Code: 852 141 442
+
+
+### Wednesday, Oct 16th - 2x20 Presentations
+Details TBA
+
+### Wednesday, Nov 20th - Discussion Session
+Details TBA
 
 ***
 ## Goals of this Users Group:
@@ -67,6 +38,37 @@ August 21st: 2x20 Talks <br/>
 
 ***
 ## Past Events
+
+### 
+
+### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics
+
+Slides now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-03-06_scRNAseq_Under_the_Hood_Session1_small.pdf">PDF of Slides<a/><br/>
+Please give us feedback about this workshop: <a href="https://goo.gl/forms/DaDdtuuuoUcL6Ckt1">Survey Link (via Google Forms)<a/> <br/>
+<br/>
+
+Date: March 6th, 2019 <br/>
+· Basic utility / concepts of scRNA-Seq <br/>
+· Understanding “primary” analysis outputs, challenges <br/>
+· Data pre-processing steps: filtering, dimensionality reduction, etc <br/>
+· Clustering and interpretation of clusters <br/>
+· High dimension dataset visualization background <br/>
+Workshop coordinator: Assaf Magen and Stefan Cordes <br/>
+
+### 2019 Single Cell Genomics Analysis "Under the Hood" Workshop - Session II - Single Cell RNA-Seq Alignment & Batch Handling
+
+Slide now availalbe here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-04-24_SCUG_Workshop-SessionII.pdf">PDF of Slides<a/><br/>
+
+Additional materials available here: <br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.Rmd">R Markdown<a/><br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/UTHII.html">HTML of R Markdown<a/><br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data.pdf">ScanPy Analysis of Mouse Hematopoietic Cell Atlas Data<a/><br/>
+<a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/utilities.R">convenience utilities<a/><br/>
+
+Date: April 24th, 2019 <br/>
+· Workflow for multi-dataset alignment and analysis, with example dataset and R-markdown code <br/>
+· Basic trajectory analysis <br/>
+Workshop coordinator: Stefan Cordes and Assaf Magen <br/>
 
 ### Wednesday Nov 14th, 2018 @ 10am
 2x20min Presentation: Art Shaffer (Staudt Lab - NCI) & Shouguo Gao (Young Lab - NHLBI) <br/>
