@@ -7,10 +7,10 @@ We will be posting information about upcoming users group events and other infor
 ## Upcoming Events
 
 ### Wednesday, October 2nd 10-11am - Discussion Session "Single Nuclei"
-Bld 35, Rm GG607
-WebEx Event Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e908d04153b254f06815a459f7ba48905">852 141 442</a>
-Event Password: 4HpXKRS*
-Audio-only Call-In #: 1-650-479-3207 (Access Code: 852 141 442
+Bld 35, Rm GG607<br/>
+WebEx Event Link: <a href="https://cbiit.webex.com/cbiit/onstage/g.php?MTID=e908d04153b254f06815a459f7ba48905">852 141 442</a><br/>
+Event Password: 4HpXKRS*<br/>
+Audio-only Call-In #: 1-650-479-3207 (Access Code: 852 141 442<br/>
 
 
 ### Wednesday, Oct 16th - 2x20 Presentations
