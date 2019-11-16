@@ -6,21 +6,10 @@ We will be posting information about upcoming users group events and other infor
 
 ## Upcoming Events
 
-### Wednesday, Oct 16th - 2x20 Presentations
-Details TBA
-
-### Tuesday, Oct 22nd - Systems Biology SIG Seminar - Ivan Costa, PhD
-Building 4 Room 433 on Bethesda campus <br/>
-“From chromatin accessibility to regulomes down to single cell resolution"<br/>
-Ivan Costa, Ph.D.<br/>
-Group Leader<br/>
-Institute for Computational Genomics<br/>
-University Hospital RWTH Aachen, Germany<br/>
-Note: This seminar will not be WebEx broadcast <br/>
-
-
-### Wednesday, Nov 20th - Discussion Session
-Details TBA
+### Wednesday, December 18th 10-11am - Tutorial 
+Topic: "Seurat v3 Integration Walkthrough"
+Location: Bld 35, Rm GG607
+*This event was originally scheduled for Nov 20th, but is being rescheduled to Dec 18th.
 
 ***
 ## Goals of this Users Group:
@@ -43,6 +32,9 @@ Details TBA
 ## Past Events
 
 ### 
+
+### Wednesday, Oct 16th - 2x20 Presentations
+
 
 ### Wednesday, October 2nd 10-11am - Discussion Session "Single Nuclei"
 
