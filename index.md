@@ -32,7 +32,7 @@ Location: Bld 35, Rm GG607 <br/>
 ***
 ## Past Events
 
-### Wednesday, Oct 16th
+### Wednesday, Oct 16th @ 10am
 2x20min Presentations: Chrisine Hollander (Li Yang's Lab - NCI) & Kathryn McClelland (Brian Oliver's Lab - NIDDK) <br/>
 
 ### Wednesday, October 2nd @ 10am - Discussion Session 
