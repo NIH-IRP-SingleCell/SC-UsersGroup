@@ -7,9 +7,10 @@ We will be posting information about upcoming users group events and other infor
 ## Upcoming Events
 
 ### Wednesday, December 18th 10-11am - Tutorial 
-Topic: "Seurat v3 Integration Walkthrough"
-Location: Bld 35, Rm GG607
-*This event was originally scheduled for Nov 20th, but is being rescheduled to Dec 18th.
+Topic: "Seurat v3 Integration Walkthrough" <br/>
+Location: Bld 35, Rm GG607 <br/>
+*This event was originally scheduled for Nov 20th, but is being rescheduled to Dec 18th. <br/>
+
 
 ***
 ## Goals of this Users Group:
@@ -31,12 +32,12 @@ Location: Bld 35, Rm GG607
 ***
 ## Past Events
 
-### 
+### Wednesday, Oct 16th
+2x20min Presentations: Chrisine Hollander (Li Yang's Lab - NCI) & Kathryn McClelland (Brian Oliver's Lab - NIDDK) <br/>
 
-### Wednesday, Oct 16th - 2x20 Presentations
-
-
-### Wednesday, October 2nd 10-11am - Discussion Session "Single Nuclei"
+### Wednesday, October 2nd @ 10am - Discussion Session 
+Topic: "Single Nuclei" <br/>
+Discussion Leader: Kaya Matson (Levine Lab, NINDS) <br/>
 
 
 ### 2019 Single Cell Genomics Analysis “Under the Hood” Workshop - Session I - Single Cell RNA-Seq Analysis Basics
