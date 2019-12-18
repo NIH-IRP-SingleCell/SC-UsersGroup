@@ -8,7 +8,7 @@ We will be posting information about upcoming users group events and other infor
 
 ### Wednesday, December 18th 10-11am - Tutorial 
 Topic: "Seurat v3 Integration Walkthrough" <br/>
-Slides now available here: <a href="https://https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-12-18_SCUG_Seuratv3.pptx">Slides as .pptx<a/><br/>
+Slides now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-12-18_SCUG_Seuratv3.pptx">Slides as .pptx<a/><br/>
 Rmarkdown now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/Best%20Practices%20in%20RNA-seq.Rmd">Rmarkdown<a/><br/>
 Note for Stefan on Rmarkdown: "Still required are the datasets from 10X and a GTF human annotation file, which you can get from ENSEMBL.  If you put data and annotation into subdirectories called “data” and ref of some local base directory and enter the name of your base directory into the R markdown, things should work."<br/>
 
