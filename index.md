@@ -10,7 +10,7 @@ We will be posting information about upcoming users group events and other infor
 Topic: "Seurat v3 Integration Walkthrough" <br/>
 Location: Bld 35, Rm GG607 <br/>
 *This event was originally scheduled for Nov 20th, but is being rescheduled to Dec 18th. <br/>
-Slides now available here: <a href="https://https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-12-18_SCUG_Seuratv3.pptx">Slide as .pptx<a/><br/>
+Slides now available here: <a href="https://https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-12-18_SCUG_Seuratv3.pptx">Slides as .pptx<a/><br/>
 
 ***
 ## Goals of this Users Group:
