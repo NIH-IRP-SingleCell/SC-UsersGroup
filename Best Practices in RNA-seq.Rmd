@@ -1,0 +1,417 @@
+---
+title: "Seurat Version 3 Walkthrough"
+author: "Single Cell Users Group"
+date: "12/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Background on Seurat and Alternatives
+Seurat was initially developed by Rahul Satija.  The package is currently developed and maintained by the Satija lab.  The latest sstable release is version 3.1.1; a pre-release beta version of 3.2 is available, which enables the analysis of spatial datasets.  Ancillary packages to Seurat (also developed by the Satija lab) include sctransform for normalizing data and SeuratData, a collection of datasets.
+
+Although this is a walkthrough of Seurat, we do not take a firm position on its merits relative to the other freely available analysis packages.  Alternative integrated analysis packages include scanpy (written in python) and scater (written in R).
+
+This R markdown starts from count matrices.  Pre-processing steps were surveyed in some lectures we gave earlier this year and are nicely covered by Lun et al, F1000Res5 (2016):2122.
+```{r Preliminaries, echo = FALSE, warning = FALSE}
+# Basic definitions - ONLY CHANGE THESE
+base_dir <- "/Users/cordessf/projects/SCUG"
+
+# Derived definitions
+# ... cache directory
+cache_dir <- file.path(base_dir, "cache")
+if(!dir.exists(cache_dir)) {
+  dir.create(cache_dir)
+}
+
+# ... data directory
+data_dir <- file.path(base_dir, "data")
+
+# ... reference directory
+ref_dir <- file.path(base_dir, "ref")
+
+# ... results directory
+results_dir <- file.path(base_dir, "results")
+if(!dir.exists(results_dir)) {
+  dir.create(results_dir)
+}
+
+# Load required packages
+suppressPackageStartupMessages(require(cowplot))
+suppressPackageStartupMessages(require(ggplot2))
+suppressPackageStartupMessages(require(sctransform))
+suppressPackageStartupMessages(require(Seurat))
+suppressPackageStartupMessages(require(SeuratData))
+
+# Set options to permit aalysis of larger datasets
+options(future.globals.maxSize= 2147483648)
+```
+## Loading the data
+We will be working with three different datasets that are freely available from 10X genomics: 3'-end and 5'-end sequenced expression data with cell surface protein quantification.  For each dataset, we label the cells sequenced by the method with which they were sequenced (either '3-prime expression' or '5-prime expression').  We also pre-compute the fraction of mitochondrial reads for each cell.
+
+Note: the joint gene expression levels combined with the abundance of cell surface proteins is an example of multi-modal single cell data.
+```{r Load_Data, echo = FALSE, warning = FALSE}
+# Load data
+# ... 3' expression data wtih CITE-seq
+pbmnc_3_prime_cite_seq <- Seurat::Read10X_h5(filename = file.path(data_dir, "5k_pbmnc_3_cite_seq", "5k_pbmc_protein_v3_nextgem_filtered_feature_bc_matrix.h5"))
+
+# ... ... separate out gene expression data and create the Seurat Object
+pbmnc_3_expression_data <- pbmnc_3_prime_cite_seq[["Gene Expression"]]
+pbmnc_3_so <- Seurat::CreateSeuratObject(counts = pbmnc_3_expression_data)
+
+# ... ... label as '3-prime expression'
+pbmnc_3_so <- Seurat::AddMetaData(object = pbmnc_3_so,
+                                  metadata = rep('3-prime expression', ncol(pbmnc_3_so)),
+                                  col.name = 'Method')
+
+# ... ... compute fraction of mitochondrial reads for each cell
+pbmnc_3_so <- Seurat::PercentageFeatureSet(object = pbmnc_3_so, pattern = '^MT-', col.name = "percent.mt")
+
+# ... ... separate out CITE-seq data and create Seurat::AssayObject for protein data
+pbmnc_3_cite_seq_data <- pbmnc_3_prime_cite_seq[["Antibody Capture"]]
+pbmnc_3_so[["ADT"]] <- Seurat::CreateAssayObject(counts = pbmnc_3_cite_seq_data)
+pbmnc_3_so <- Seurat::NormalizeData(object = pbmnc_3_so,
+                                    assay = "ADT",
+                                    normalization.method = "CLR")
+
+# ... 5' expression data with TCR-seq and CITE-seq
+pbmnc_5_prime_vdj_cite_seq <- Seurat::Read10X_h5(filename = file.path(data_dir, "5k_pbmnc_5_vdj_cite_seq", "vdj_nextgem_hs_pbmc3_filtered_feature_bc_matrix.h5"))
+
+# ... ... separate out gene expression data and create the Seurat Object
+pbmnc_5_data <- pbmnc_5_prime_vdj_cite_seq[["Gene Expression"]]
+pbmnc_5_so <- Seurat::CreateSeuratObject(counts = pbmnc_5_data)
+
+# ... ... compute fraction of mitochondrial reads for each cell
+pbmnc_5_so <- Seurat::PercentageFeatureSet(object = pbmnc_5_so, pattern = '^MT-', col.name = "percent.mt")
+
+# ... ... label as '5-prime expression'
+pbmnc_5_so <- Seurat::AddMetaData(object = pbmnc_5_so,
+                                  metadata = rep('5-prime expression', ncol(pbmnc_5_so)),
+                                  col.name = 'Method')
+
+# ... ... separate out CITE-seq data and create Seurat::AssayObject for protein data
+pbmnc_5_cite_seq_data <- pbmnc_5_prime_vdj_cite_seq[["Antibody Capture"]]
+pbmnc_5_so[["ADT"]] <- Seurat::CreateAssayObject(counts = pbmnc_5_cite_seq_data)
+pbmnc_5_so <- Seurat::NormalizeData(object = pbmnc_5_so,
+                                    assay = "ADT",
+                                    normalization.method = "CLR")
+
+# Create a list of Seurat objects
+# Create Seurat object list
+pbmnc_sol <- list(pbmnc_3_so, pbmnc_5_so)
+names(pbmnc_sol) <- c("3-prime", "5-prime")
+
+# Cache the Seurat object list
+save(pbmnc_sol, file = file.path(cache_dir, "PBMNC_SOL.RDS"))
+```
+## Merge and normalize data
+To begin with we'll simply merge the two raw datasets.  We'll compare the resultant merged dataset to methods that mitigate technical differences in the datasets a bit later.
+```{r Merge, echo = FALSE, warning = FALSE}
+for(n in names(pbmnc_sol)) {
+  cat("Processing library: ", n, " ... ")
+  pbmnc_sol[[n]] <- Seurat::RenameCells(pbmnc_sol[[n]], add.cell.id = n)
+  
+  if(n == names(pbmnc_sol[1])) {
+    # First Seurat object is simply assigned to the merged list
+    pbmnc_merged_so <- pbmnc_sol[[1]]
+  } else {
+    # Subsequent Seurat objects are added to the merged Seurat object
+    pbmnc_merged_so <- merge(x = pbmnc_merged_so,
+                             y = pbmnc_sol[[n]],
+                             merge.data = TRUE,
+                             project = '3-prime and 5-prime expression data')
+  }
+  cat("Done.\n")
+}
+
+# Cache the merged Seurat object
+save(pbmnc_merged_so, file = file.path(cache_dir, "MERGED_PBMNC.RDS"))
+```
+## Normalization and Variance Stabilization via Regularized Negative Binomial Regression - scTransform
+Single cell RNA-seq data exhibits significant cell-to-cell variation due to technical factors.  Observed sequencing depth (number of genes or molecules detected per cell) can vary significantly with variations of an order of magnitude even for the same cell type. Causes include variability in cell lysis, reverse transcription efficiency and stochastic molecular sampling during sequencing.
+
+
+```{r, echo = FALSE, warning = FALSE}
+# Normalize via SCTransform
+pbmnc_merged_so <- Seurat::SCTransform(object = pbmnc_merged_so,
+                                             assay = "RNA",
+                                             new.assay.name = "SCT",
+                                             do.correct.umi = TRUE,
+                                             vars.to.regress = "percent.mt",
+                                             verbose = FALSE)
+
+# ... Standard visulaization
+pbmnc_merged_so <- Seurat::RunPCA(object = pbmnc_merged_so, verbose = FALSE)
+pbmnc_merged_so <- Seurat::RunUMAP(object = pbmnc_merged_so, dims = 1:30, verbose = FALSE)
+
+pbmnc_merged_so <- Seurat::FindNeighbors(object = pbmnc_merged_so, dims = 1:30, verbose = FALSE)
+pbmnc_merged_so <- Seurat::FindClusters(object = pbmnc_merged_so, verbose = FALSE)
+
+# ... Plot by cluster
+p_merged_cluster <- Seurat::DimPlot(pbmnc_merged_so, label = TRUE) + NoLegend()
+plot(p_merged_cluster)
+
+# ... Plot by sequencing method
+p_merged_method <- Seurat::DimPlot(pbmnc_merged_so, group.by = c('Method'), label = TRUE) + NoLegend()
+plot(p_merged_method)
+
+# Cache merged Seurat object
+save(pbmnc_merged_so, file = file.path(cache_dir, 'PBMNC_MERGED_SO.RDS'))
+```
+## Load reference data
+During the course of analysis one often wants to compare one's data with previously analyzed datasets.  Seurat v. 3 permits comparison between the cells in a query dataset with those of a reference dataset with transfer of annotations from the reference to the query dataset.
+```{r Load_reference, echo = FALSE, warning = FALSE}
+# Load a some reference datasets - these are datasets from 8 different technologies
+if(!exists("pbmcsca")) {
+  SeuratData::InstallData("pbmcsca")
+  data("pbmcsca")
+}
+
+# Separate the data into a list of Seurat objects by method that the data was obtained
+reference_sol <- Seurat::SplitObject(object = pbmcsca, split.by = "Method")
+
+# Pare down the list to "Smart-seq2", "10x Chromium (v2)", "10x Chromium (v2) A" and "10x Chromium (v2) B", which are distict from our datasets (which we shall henceforth refer to as the query datasets)
+reference_dataset_names <- c("Smart-seq2", "10x Chromium (v2)", "10x Chromium (v2) A", "10x Chromium (v2) B")
+reference_sol <- reference_sol[reference_dataset_names]
+
+# Separately perform scTransform for each dataset
+for(n in names(reference_sol)) {
+  cat("Performing sctransform on data set", n, "...")
+  reference_sol[[n]] <- Seurat::SCTransform(object = reference_sol[[n]], verbose = FALSE)
+  cat("Done.\n")
+}
+
+# Integrate the reference data
+reference_features <- Seurat::SelectIntegrationFeatures(object.list = reference_sol,
+                                                              nfeatures = 3000)
+reference_sol <- Seurat::PrepSCTIntegration(object.list = reference_sol,
+                                                  anchor.features = reference_features)
+
+# Integrate the reference data list into a single reference data set
+reference_anchors <- Seurat::FindIntegrationAnchors(object.list = reference_sol,
+                                                          normalization.method = 'SCT',
+                                                          anchor.features = reference_features,
+                                                          verbose = FALSE)
+reference_integrated_so <- Seurat::IntegrateData(anchorset = reference_anchors,
+                                                       normalization.method = 'SCT',
+                                                       verbose = FALSE)
+
+# Cache integrated reference data
+save(reference_integrated_so, file = file.path(cache_dir, 'REFERENCE_INTEGRATED_SO.RDS'))
+
+# Compute transfer anchors
+for(n in names(pbmnc_sol)) {
+  cat("Transferring labels to", n, "...\n")
+  query_anchors <- Seurat::FindTransferAnchors(reference = reference_integrated_so,
+                                               query = pbmnc_sol[[n]],
+                                               reference.assay = 'integrated',
+                                               query.assay = 'RNA')
+  cell_types <- Seurat::TransferData(anchorset = query_anchors, refdata = reference_integrated_so$CellType, dims = 1:30)
+  pbmnc_sol[[n]] <- Seurat::AddMetaData(object = pbmnc_sol[[n]], metadata = cell_types$predicted.id, col.name = "CellType")
+  cat("Done.\n")
+}
+
+save(pbmnc_sol, file = file.path(cache_dir, 'PBMNC_SOL_LABELS_TRANSFERRED.RDS'))
+
+# N.B. Should filter out low prediction scores - Have not done this here
+```
+## Dataset Integration
+In this step we integrate the two expression datasets.
+```{r Merged_And_Integrated, echo = FALSE, warning = FALSE}
+# Separately perform scTransform for each dataset
+for(n in names(pbmnc_sol)) {
+  cat("Performing sctransform on data set", n, "...")
+  pbmnc_sol[[n]] <- Seurat::SCTransform(object = pbmnc_sol[[n]], verbose = FALSE)
+  cat("Done.\n")
+}
+
+# Select features for integration
+pbmnc_features <- Seurat::SelectIntegrationFeatures(object.list = pbmnc_sol, nfeatures = 3000)
+
+pbmnc_sol <- PrepSCTIntegration(object.list = pbmnc_sol,
+                                anchor.features = pbmnc_features,
+                                verbose = FALSE)
+
+# ... Integration
+pbmnc_integration_anchors <- Seurat::FindIntegrationAnchors(object.list = pbmnc_sol,
+                                                            normalization.method = 'SCT',
+                                                            anchor.features = pbmnc_features,
+                                                            verbose = FALSE)
+pbmnc_integrated_so <- Seurat::IntegrateData(anchorset = pbmnc_integration_anchors,
+                                             normalization.method = 'SCT',
+                                             verbose = FALSE)
+
+# Cache intermediate results
+save(pbmnc_integrated_so, file = file.path(cache_dir, 'PBMNC_INTEGRATED_SO.RDS'))
+```
+## Visualization of merged and integrated datasets
+```{r Visualization, echo = FALSE, warning = FALSE}
+# ... merged data
+pbmnc_merged_so <- Seurat::RunPCA(object = pbmnc_merged_so, verbose = FALSE)
+pbmnc_merged_so <- Seurat::RunUMAP(object = pbmnc_merged_so, dims = 1:30)
+
+pbmnc_merged_so <- Seurat::FindNeighbors(object = pbmnc_merged_so, dims = 1:30, verbose = FALSE)
+pbmnc_merged_so <- Seurat::FindClusters(object = pbmnc_merged_so, verbose = FALSE)
+
+# ... ... plot by sequencing method
+merged_plots <- Seurat::DimPlot(object = pbmnc_merged_so,
+                                group.by = c("Method"),
+                                label = TRUE) + NoLegend()
+plot(merged_plots)
+
+# ... integrated data
+pbmnc_integrated_so <- Seurat::RunPCA(object = pbmnc_integrated_so, verbose = FALSE)
+pbmnc_integrated_so <- Seurat::RunUMAP(object = pbmnc_integrated_so, dims = 1:30)
+
+pbmnc_integrated_so <- Seurat::FindNeighbors(object = pbmnc_integrated_so, dims = 1:30, verbose = FALSE)
+pbmnc_integrated_so <- Seurat::FindClusters(object = pbmnc_integrated_so, verbose = FALSE)
+
+# ,,, .... plot by sequencing methof
+integrated_plots_method <- Seurat::DimPlot(object = pbmnc_integrated_so,
+                                           group.by = c("Method"),
+                                           label = TRUE) + NoLegend()
+plot(integrated_plots_method)
+
+# ... ... plot by cluster
+integrated_plots_cluster <- Seurat::DimPlot(object = pbmnc_integrated_so,
+                                           label = TRUE) + NoLegend()
+plot(integrated_plots_cluster)
+
+# ... ... plot by cell type
+integrated_plots_celltype <- Seurat::DimPlot(object = pbmnc_integrated_so,
+                                             group.by = c("CellType"),
+                                             label = TRUE) + NoLegend()
+plot(integrated_plots_celltype)
+```
+
+## Multimodal Analysis - Viualization of the CITE-seq data
+```{r, echo = FALSE, warning = FALSE}
+features <- paste(c('CD3',
+                    # 'CD4',
+                    'CD8a',
+                    'CD16',
+                    'CD45RA',
+                    'CD45RO',
+                    # 'CD56',
+                    'CD62L'), 'TotalSeqB', sep = '-')
+
+for(feature in features) {
+  # ... Feature Plots
+  p_features <- Seurat::FeaturePlot(object = pbmnc_integrated_so,
+                                    features = feature, label = FALSE) + NoLegend()
+  plot(p_features)
+  
+  # ... Ridge Plots
+  p_ridge <- Seurat::RidgePlot(object = pbmnc_integrated_so,
+                               features = feature,
+                               group.by = 'CellType',
+                               legend = 'none') + NoLegend()
+  plot(p_ridge)
+}
+```
+## scATAC-seq and scRNA-seq integration
+```{r, echo = FALSE, warning = FALSE}
+# Read in ATAC-seq data
+peaks <- Seurat::Read10X_h5(file.path(data_dir, "5k_pbmnc_atac_seq","atac_pbmc_5k_nextgem_filtered_peak_bc_matrix.h5"))
+activity_matrix <- Seurat::CreateGeneActivityMatrix(peak.matrix = peaks,
+                                                    annotation.file = file.path(ref_dir, "Homo_sapiens.GRCh38.98.gtf.gz"),
+                                                    seq.levels = c(1:22, "X", "Y"),
+                                                    upstream = 2000, verbose = FALSE)
+
+# Convert to Seurat object
+pbmnc_atac <- Seurat::CreateSeuratObject(counts = peaks, assay = "ATAC", project = "10X_ATAC")
+pbmnc_atac[["ACTIVITY"]] <- Seurat::CreateAssayObject(counts = activity_matrix)
+
+# Read in metadata and add to the Seurat object
+meta_data <- read.table(file = file.path(data_dir, "5k_pbmnc_atac_seq", "atac_pbmc_5k_nextgem_peak_annotation.tsv"),
+                        sep = "\t", header = TRUE, row.names = 1, stringsAsFactors = FALSE)
+meta_data <- meta_data[colnames(pbmnc_atac), ]
+pbmnc_atac <- Seurat::AddMetaData(pbmnc_atac, metadata = meta_data)
+
+# Subset the data
+pbmnc_atac <- subset(pbmnc_atac, subset = nCount_ATAC > 5000)
+pbmnc_atac$Method <- 'ATAC-seq'
+
+# Preprocessing
+Seurat::DefaultAssay(pbmnc_atac) <- 'ACTIVITY'
+pbmnc_atac <- Seurat::FindVariableFeatures(pbmnc_atac)
+pbmnc_atac <- Seurat::NormalizeData(pbmnc_atac)
+pbmnc_atac <- Seurat::ScaleData(pbmnc_atac)
+
+# 
+Seurat::DefaultAssay(pbmnc_atac) <- 'ATAC'
+Seurat::VariableFeatures(pbmnc_atac) <- names(which(Matrix::rowSums(pbmnc_atac) > 100))
+pbmnc_atac <- Seurat::RunLSI(pbmnc_atac, n = 50, scale.max = NULL)
+pbmnc_atac <- Seurat::RunUMAP(pbmnc_atac, reduction = 'lsi', dims = 1:50)
+
+# Cache results
+save(pbmnc_atac, file = file.path(cache_dir, "PBMNC_ATAC.RDS"))
+
+# Visualization
+p1 <- Seurat::DimPlot(pbmnc_atac, reduction = 'umap') + NoLegend() + ggtitle('scATAC-seq')
+plot(p1)
+
+p2 <- Seurat::DimPlot(pbmnc_integrated_so, group.by = 'CellType', label = TRUE, repel = TRUE) + NoLegend() + ggtitle('scRNA-seq')
+plot(p2)
+```
+## Transfer labels to the ATAC-seq data
+We have labeled expression data with cell types and would now like to transfer to the cell type labels to the ATAC-seq data
+```{r, integrate_atac, echo = FALSE, warning = FALSE}
+# Compute transfer anchors
+expression_features <- Seurat::VariableFeatures(object = pbmnc_integrated_so)
+transfer_anchors <- Seurat::FindTransferAnchors(reference = pbmnc_integrated_so,
+                                                reference.assay = 'integrated',
+                                                query = pbmnc_atac,
+                                                query.assay = 'ACTIVITY',
+                                                features = expression_features,
+                                                reduction = 'cca')
+
+# Transfer data
+cell_types <- Seurat::TransferData(anchorset = transfer_anchors,
+                                   refdata = pbmnc_integrated_so$CellType,
+                                   weight.reduction = pbmnc_atac[['lsi']])
+pbmnc_atac <- Seurat::AddMetaData(pbmnc_atac, metadata = cell_types$predicted.id, col.name = "CellType")
+
+# Should filter out low prediction scores
+
+# Cache
+save(pbmnc_atac, file = file.path(cache_dir, "PBMNC_ATAC_ANNOTATED.RDS"))
+```
+## Co-embed scRNA-seq and scRNA-seq cells in same low dimensional space
+Expression values for the scATAC-seq data will be imputed from those of of the integrated scRNA-seq data
+```{r, Co_embed, echo = FALSE, warning = FALSE}
+# Determine variable features and subset the expression data to those
+genes.use <- Seurat::VariableFeatures(object = pbmnc_integrated_so)
+refdata <- Seurat::GetAssayData(pbmnc_integrated_so, assay = 'integrated', slot = 'data')[genes.use, ]
+
+# Impute expression levels for the scATAC-seq dataset
+imputation <- Seurat::TransferData(anchorset = transfer_anchors,
+                                   refdata = refdata,
+                                   weight.reduction = pbmnc_atac[['lsi']])
+pbmnc_atac[['integrated']] <- imputation
+
+# Coembed actual and imputed RNA-seq expression data
+pbmnc_coembedded <- merge(x = pbmnc_integrated_so, pbmnc_atac)
+Seurat::DefaultAssay(pbmnc_coembedded) <- 'integrated'
+
+# plot the coembedded data
+pbmnc_coembedded <- Seurat::ScaleData(object = pbmnc_coembedded,
+                                      features = genes.use,
+                                      do.scale = FALSE)
+pbmnc_coembedded <- Seurat::RunPCA(object = pbmnc_coembedded,
+                                   features = genes.use,
+                                   verbose = FALSE)
+pbmnc_coembedded <- Seurat::RunUMAP(object = pbmnc_coembedded,
+                                    dims = 1:30)
+
+# Cache
+save(pbmnc_coembedded, file = file.path(cache_dir, "PBMNC_COEMBEDDED.RDS"))
+
+# Visualization
+p3 <- Seurat::DimPlot(pbmnc_coembedded, group.by = 'Method')
+plot(p3)
+
+p4 <- Seurat::DimPlot(pbmnc_coembedded, group.by = 'CellType', label = TRUE, repel = TRUE)
+plot(p4)
+```
