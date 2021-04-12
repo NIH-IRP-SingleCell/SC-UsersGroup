@@ -31,7 +31,7 @@ More info to be posted. Watch for email announcement.
 
 
 ### Thursday, April 8th, 2021 - Vizgen (MERFISH) Presentation - Vendor Presentation
-Recording of presentation here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/Best%20Practices%20in%20RNA-seq.Rmd">Recording<a/><br/>
+Recording of presentation here: <a href="https://drive.google.com/file/d/1NxPd8Pv_ptsR6fW0cyF_o6xkkEhNI6Wm/view?usp=sharing">Recording<a/><br/>
 
 ### Wednesday, December 18th, 2019 10-11am - Tutorial 
 Topic: "Seurat v3 Integration Walkthrough" <br/>
