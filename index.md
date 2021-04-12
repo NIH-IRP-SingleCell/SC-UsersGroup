@@ -6,11 +6,8 @@ We will be posting information about upcoming users group events and other infor
 
 ## Upcoming Events
 
-### Wednesday, December 18th 10-11am - Tutorial 
-Topic: "Seurat v3 Integration Walkthrough" <br/>
-Slides now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-12-18_SCUG_Seuratv3.pptx">Slides as .pptx<a/><br/>
-Rmarkdown now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/Best%20Practices%20in%20RNA-seq.Rmd">Rmarkdown<a/><br/>
-Note for Stefan on Rmarkdown: "Still required are the datasets from 10X and a GTF human annotation file, which you can get from ENSEMBL.  If you put data and annotation into subdirectories called “data” and ref of some local base directory and enter the name of your base directory into the R markdown, things should work."<br/>
+### Thursday, May 6th, 2021 11am EST - Special Presentation by graduate students in Nir Yosef's lab
+More info to be posted. Watch for email announcement.
 
 ***
 ## Goals of this Users Group:
@@ -32,10 +29,20 @@ Note for Stefan on Rmarkdown: "Still required are the datasets from 10X and a GT
 ***
 ## Past Events
 
-### Wednesday, Oct 16th @ 10am
+
+### Thursday, April 8th, 2021 - Vizgen (MERFISH) Presentation - Vendor Presentation
+Recording of presentation here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/Best%20Practices%20in%20RNA-seq.Rmd">Recording<a/><br/>
+
+### Wednesday, December 18th, 2019 10-11am - Tutorial 
+Topic: "Seurat v3 Integration Walkthrough" <br/>
+Slides now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/2019-12-18_SCUG_Seuratv3.pptx">Slides as .pptx<a/><br/>
+Rmarkdown now available here: <a href="https://github.com/NIH-IRP-SingleCell/SC-UsersGroup/blob/master/Best%20Practices%20in%20RNA-seq.Rmd">Rmarkdown<a/><br/>
+Note for Stefan on Rmarkdown: "Still required are the datasets from 10X and a GTF human annotation file, which you can get from ENSEMBL.  If you put data and annotation into subdirectories called “data” and ref of some local base directory and enter the name of your base directory into the R markdown, things should work."<br/>
+
+### Wednesday, Oct 16th, 2019 - Presentation
 2x20min Presentations: Chrisine Hollander (Li Yang's Lab - NCI) & Kathryn McClelland (Brian Oliver's Lab - NIDDK) <br/>
 
-### Wednesday, October 2nd @ 10am - Discussion Session 
+### Wednesday, October 2nd, 2019 - Discussion Session 
 Topic: "Single Nuclei" <br/>
 Discussion Leader: Kaya Matson (Levine Lab, NINDS) <br/>
 
