@@ -1,4 +1,4 @@
-# Welcome to the Single Cell Genomics SIG Users Group;
+# Welcome to the Single Cell Genomics SIG Users Group
 
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
 
