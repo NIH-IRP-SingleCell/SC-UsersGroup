@@ -6,8 +6,11 @@ We will be posting information about upcoming users group events and other infor
 
 ## Upcoming Events
 
-### Thursday, May 6th, 2021 11am EST - Special Presentation by graduate students in Nir Yosef's lab
-More info to be posted. Watch for email announcement.
+### Thursday, June 17th, 2021 11am EST - Presentation from Vishaka Gopalan (Fellow in Sridhar Hannenhalli's lab in the NCI-CCR Cancer Science Data Laboratory)
+WebEx Link: <a href="https://cbiit.webex.com/cbiit/j.php?MTID=med94a210a2c7c80e76396498a7f7bf7b">172 241 0782<a/><br/>
+Meeting PW: jjM4nAT3e@4<br/>
+Audio-only Call-in #: 1-650-479-3207 (Access code: 172 241 0782)<br/>
+
 
 ***
 ## Goals of this Users Group:
@@ -29,6 +32,11 @@ More info to be posted. Watch for email announcement.
 ***
 ## Past Events
 
+### Thursday, May 20th, 2021 11am EST - Prof. Chris Bock Seminar "Looking into the past and future of cells: Single-cell sequencing and high-throughput analysis of epigenetic cell states in immunology and cancer"
+Recording of preserntation here: <a href="https://cbiit.webex.com/weblink/pmtg/879a77eafc7f474d8a634ff9cc972f50">Recording<a/><br/>
+
+### Thursday, May 6th, 2021 11am EST - Special Presentation by graduate students in Nir Yosef's lab
+Recording of presentation here: <a href="https://drive.google.com/file/d/11o9HlwTtIhBqNtwz5dUmQmFcNduM9YLC/view?usp=sharing">Recording<a/><br/>
 
 ### Thursday, April 8th, 2021 - Vizgen (MERFISH) Presentation - Vendor Presentation
 Recording of presentation here: <a href="https://drive.google.com/file/d/1NxPd8Pv_ptsR6fW0cyF_o6xkkEhNI6Wm/view?usp=sharing">Recording<a/><br/>
