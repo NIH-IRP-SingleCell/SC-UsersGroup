@@ -6,10 +6,11 @@ We will be posting information about upcoming users group events and other infor
 
 ## Upcoming Events
 
-### Thursday, June 17th, 2021 11am EST - Presentation from Vishaka Gopalan (Fellow in Sridhar Hannenhalli's lab in the NCI-CCR Cancer Science Data Laboratory)
-WebEx Link: <a href="https://cbiit.webex.com/cbiit/j.php?MTID=med94a210a2c7c80e76396498a7f7bf7b">172 241 0782<a/><br/>
-Meeting PW: jjM4nAT3e@4<br/>
-Audio-only Call-in #: 1-650-479-3207 (Access code: 172 241 0782)<br/>
+### Wednesday, Sept 6th, 2021 10am EST - (re)Intro Meeting and Lightning Talks
+WebEx Link: <a href="[https://cbiit.webex.com/cbiit/j.php?MTID=med94a210a2c7c80e76396498a7f7bf7b](https://cbiit.webex.com/weblink/register/r5959c51a2bcc1b0831aa111e559dcb67
+ )">2301 014 8729<a/><br/>
+Meeting PW: W32RfVE39V$<br/>
+Audio-only Call-in #: 1-650-479-3207 (Access code: 2301 014 8729)<br/>
 
 
 ***
@@ -31,6 +32,11 @@ Audio-only Call-in #: 1-650-479-3207 (Access code: 172 241 0782)<br/>
 
 ***
 ## Past Events
+
+### Thursday, June 17th, 2021 11am EST - Presentation from Vishaka Gopalan (Fellow in Sridhar Hannenhalli's lab in the NCI-CCR Cancer Science Data Laboratory)
+WebEx Link: <a href="https://cbiit.webex.com/cbiit/j.php?MTID=med94a210a2c7c80e76396498a7f7bf7b">172 241 0782<a/><br/>
+Meeting PW: jjM4nAT3e@4<br/>
+Audio-only Call-in #: 1-650-479-3207 (Access code: 172 241 0782)<br/>
 
 ### Thursday, May 20th, 2021 11am EST - Prof. Chris Bock Seminar "Looking into the past and future of cells: Single-cell sequencing and high-throughput analysis of epigenetic cell states in immunology and cancer"
 Recording of preserntation here: <a href="https://cbiit.webex.com/weblink/pmtg/879a77eafc7f474d8a634ff9cc972f50">Recording<a/><br/>
