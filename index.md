@@ -1,4 +1,4 @@
-# Welcome to the Single Cell Genomics SIG Users Group
+# Welcome to the Single Cell and Spatial Genomics SIG Users Group
 
 We will be posting information about upcoming users group events and other information here. For Single Cell Genomics SIG organized or cross-listed events, please visit <a href="https://NIH-IRP-SingleCell.github.io/SingleCellGenomics-SIG/">this site.</a>
 
@@ -6,11 +6,8 @@ We will be posting information about upcoming users group events and other infor
 
 ## Upcoming Events
 
-### Wednesday, Sept 6th, 2021 10am EST - (re)Intro Meeting and Lightning Talks
-WebEx Link: <a href="[https://cbiit.webex.com/cbiit/j.php?MTID=med94a210a2c7c80e76396498a7f7bf7b](https://cbiit.webex.com/weblink/register/r5959c51a2bcc1b0831aa111e559dcb67
- )">2301 014 8729<a/><br/>
-Meeting PW: W32RfVE39V$<br/>
-Audio-only Call-in #: 1-650-479-3207 (Access code: 2301 014 8729)<br/>
+### Wednesday, Jan 10th, 2021 10am EST - 2 x 20min Presentations
+Location and Speaker TBA
 
 
 ***
@@ -26,12 +23,16 @@ Audio-only Call-in #: 1-650-479-3207 (Access code: 2301 014 8729)<br/>
 1. Data sharing session where two people using single cell for their research present their work
 2. Friendly environment to get feedback and suggestions
 
+### PI Level 50min Presentations
+
 ### Discussion Sections
 1. Open format meeting to discuss a topic, technique, or recent paper(s)
 2. Moderator organized; participant led
 
 ***
 ## Past Events
+
+### Wednesday, Sept 6th, 2021 10am EST - (re)Intro Meeting and Lightning Talks
 
 ### Thursday, June 17th, 2021 11am EST - Presentation from Vishaka Gopalan (Fellow in Sridhar Hannenhalli's lab in the NCI-CCR Cancer Science Data Laboratory)
 WebEx Link: <a href="https://cbiit.webex.com/cbiit/j.php?MTID=med94a210a2c7c80e76396498a7f7bf7b">172 241 0782<a/><br/>
